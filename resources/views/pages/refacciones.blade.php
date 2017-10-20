@@ -1,0 +1,70 @@
+@extends('app')
+
+@section('content')
+	<div class="inner-banner venta-renta"></div>
+
+	<div class="container">
+		<div class="row">
+			<h1 class="col-xs-12 section-title passion">Venta de refacciones</h1>
+		</div>
+		<div class="row">
+			<p>Contamos con el inventario más completo de refacciones en equipo de maquinaria y trituración.</p>
+		</div>
+	</div>
+
+	<div class="container m-top-40 m-bottom-40 refas-container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-4 refa-item">
+				<div class="photo"><a href="{{ url('refac-01') }}"><img src="images/refac01.jpg" alt="refacción-01"></a></div>
+				<div class="description">
+					<p class="title"><a href="{{ url('refac-01') }}">Lorem ipsum dolor sit amet</a></p>
+					<p class="desc"><a href="{{ url('refac-01') }}">Consectetur adipisicing elit</a></p>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-4 refa-item">
+				<div class="photo"><a href="{{ url('refac-01') }}"><img src="images/refac02.jpg" alt="refacción-02"></a></div>
+				<div class="description">
+					<p class="title"><a href="{{ url('refac-01') }}">Lorem ipsum dolor sit amet</a></p>
+					<p class="desc"><a href="{{ url('refac-01') }}">Consectetur adipisicing elit</a></p>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-4 refa-item">
+				<div class="photo"><a href="{{ url('refac-01') }}"><img src="images/refac03.jpg" alt="refacción-03"></a></div>
+				<div class="description">
+					<p class="title"><a href="{{ url('refac-01') }}">Lorem ipsum dolor sit amet</a></p>
+					<p class="desc"><a href="{{ url('refac-01') }}">Consectetur adipisicing elit</a></p>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12 col-sm-4 refa-item">
+				<div class="photo"><a href="{{ url('refac-01') }}"><img src="images/refac02.jpg" alt="refacción-02"></a></div>
+				<div class="description">
+					<p class="title"><a href="{{ url('refac-01') }}">Lorem ipsum dolor sit amet</a></p>
+					<p class="desc"><a href="{{ url('refac-01') }}">Consectetur adipisicing elit</a></p>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-4 refa-item">
+				<div class="photo"><a href="{{ url('refac-01') }}"><img src="images/refac03.jpg" alt="refacción-03"></a></div>
+				<div class="description">
+					<p class="title"><a href="{{ url('refac-01') }}">Lorem ipsum dolor sit amet</a></p>
+					<p class="desc"><a href="{{ url('refac-01') }}">Consectetur adipisicing elit</a></p>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-4 refa-item">
+				<div class="photo"><a href="{{ url('refac-01') }}"><img src="images/refac01.jpg" alt="refacción-01"></a></div>
+				<div class="description">
+					<p class="title"><a href="{{ url('refac-01') }}">Lorem ipsum dolor sit amet</a></p>
+					<p class="desc"><a href="{{ url('refac-01') }}">Consectetur adipisicing elit</a></p>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="row">
+			<a href="#" class="button-colors centered">Mostrar más</a>
+		</div>
+	</div>
+
+@stop

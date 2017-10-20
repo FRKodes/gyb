@@ -34,6 +34,10 @@
   border-top: 1px solid rgba(255, 255, 255, 0.3);
 }
 
+.light {
+  font-weight: 100;
+}
+
 .button-colors {
   background: #a6dcf8;
   background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, #a6dcf8), color-stop(53%, #40c3fb));
@@ -200,6 +204,7 @@ body {
 
 .refa-item {
   margin-bottom: 20px;
+  position: relative;
 }
 
 .refa-item img {
@@ -219,8 +224,16 @@ body {
   margin-bottom: 0;
 }
 
+.refa-item .description .title a {
+  color: black;
+}
+
 .refa-item .description .desc {
   margin-bottom: 0;
+}
+
+.refa-item .description .desc a {
+  color: black;
 }
 
 .worker-phrase-container {
@@ -264,6 +277,122 @@ h2.title {
   width: 100%;
   height: auto;
   display: block;
+  margin-bottom: 50px;
+}
+
+.brands-container .brand-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100%;
+}
+
+.brands-container .brand-item img {
+  height: 100px;
+  width: auto;
+  display: inline-block;
+}
+
+.slick-arrow {
+  color: transparent;
+}
+
+.slick-dots {
+  padding: 0;
+  text-align: center;
+}
+
+.slick-dots li {
+  display: inline-block;
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  margin: 0 5px;
+  overflow: hidden;
+  background: #f1f1f1;
+  border: 2px solid rgba(241, 241, 241, 0.5);
+  -webkit-transition: background 1s ease;
+  transition: background 1s ease;
+}
+
+.slick-dots li.slick-active button {
+  background: #40c3f9;
+  -webkit-transition: background .5s ease;
+  transition: background .5s ease;
+}
+
+.slick-dots li button {
+  border: none;
+  color: transparent;
+}
+
+.inner-banner {
+  height: 220px;
+  display: block;
+}
+
+.inner-banner.venta-renta {
+  background: transparent url(/images/banner-venta-renta-maquinaria.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.empresa {
+  background: transparent url(/images/banner-empresal.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.contacto {
+  background: transparent url(/images/banner-contacto.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.piston {
+  background: transparent url(/images/banner-detalle.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+h1.section-title {
+  color: #40c3f9;
+  margin-top: 30px;
+}
+
+.form-control {
+  background: #f1f1f1;
+}
+
+textarea {
+  resize: none;
+}
+
+.info-map {
+  text-align: center;
+}
+
+.info-map a {
+  color: black;
+  text-decoration: underline;
+}
+
+#map {
+  height: 220px;
+  background: purple;
+  margin-bottom: 40px;
+}
+
+.detail-images-container {
+  height: 220px;
+}
+
+.detail-images-container .item-image-detail img {
+  height: auto;
+  display: block;
+  width: 100%;
 }
 
 footer {
@@ -390,10 +519,14 @@ footer .credits a {
 
   .worker-phrase-container {
     background: transparent;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
   }
 
   .worker {
     margin-top: -65px;
+    display: inline-block;
   }
 
   .back-black.hard-work-container {
@@ -407,12 +540,44 @@ footer .credits a {
     display: none;
   }
 
+  .hard-work.big {
+    display: inline-block;
+    width: 400px;
+    position: relative;
+    margin-top: 100px;
+  }
+
   .guy {
     width: 300px;
   }
 
   .maquinas {
     margin-top: -50px;
+  }
+
+  .brands-container {
+    margin-bottom: 40px;
+  }
+
+  .brands-container .brand-item {
+    height: 70px;
+  }
+
+  .brands-container .brand-item img {
+    height: auto;
+    width: 80%;
+  }
+
+  .inner-banner {
+    height: 530px;
+  }
+
+  .empresa-text {
+    margin-top: 30px;
+  }
+
+  .info-map {
+    text-align: left;
   }
 
   footer .contact-info .phone-email {
@@ -443,6 +608,11 @@ footer .credits a {
 }
 
 @media screen and (min-width: 992px) {
+  .top-row .inner-container {
+    width: 960px;
+    margin: 0 auto;
+  }
+
   .main-banners-container {
     height: 470px;
   }
@@ -468,9 +638,25 @@ footer .credits a {
   .back-black.hard-work-container {
     background-size: 1200px;
   }
+
+  .brands-container .brand-item {
+    height: 120px;
+  }
+
+  .brands-container .brand-item img {
+    width: 75%;
+  }
+
+  .inner-banner {
+    height: 680px;
+  }
 }
 
 @media screen and (min-width: 1200px) {
+  .top-row .inner-container {
+    width: 1170px;
+  }
+
   .main-banners-container .item.one {
     background: transparent url(/images/banner-fondo-principal.jpg) no-repeat center 160%;
     background-size: cover;
@@ -483,6 +669,10 @@ footer .credits a {
   .back-black.hard-work-container {
     background-size: 1600px;
     background-position: center -160px;
+  }
+
+  .inner-banner {
+    height: 880px;
   }
 
   footer ul.social li {

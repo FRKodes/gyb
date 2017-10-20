@@ -19,30 +19,30 @@
 	<div class="container m-top-40 refas-container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="#"><img src="images/refac01.jpg" alt="refacción-01"></a></div>
+				<div class="photo"><a href="{{ url('refac-01') }}"><img src="images/refac01.jpg" alt="refacción-01"></a></div>
 				<div class="description">
-					<p class="title">Lorem ipsum dolor sit amet</p>
-					<p class="desc">Consectetur adipisicing elit</p>
+					<p class="title"><a href="{{ url('refac-01') }}">Lorem ipsum dolor sit amet</a></p>
+					<p class="desc"><a href="{{ url('refac-01') }}">Consectetur adipisicing elit</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="#"><img src="images/refac02.jpg" alt="refacción-02"></a></div>
+				<div class="photo"><a href="{{ url('refac-01') }}"><img src="images/refac02.jpg" alt="refacción-02"></a></div>
 				<div class="description">
-					<p class="title">Lorem ipsum dolor sit amet</p>
-					<p class="desc">Consectetur adipisicing elit</p>
+					<p class="title"><a href="{{ url('refac-01') }}">Lorem ipsum dolor sit amet</a></p>
+					<p class="desc"><a href="{{ url('refac-01') }}">Consectetur adipisicing elit</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="#"><img src="images/refac03.jpg" alt="refacción-03"></a></div>
+				<div class="photo"><a href="{{ url('refac-01') }}"><img src="images/refac03.jpg" alt="refacción-03"></a></div>
 				<div class="description">
-					<p class="title">Lorem ipsum dolor sit amet</p>
-					<p class="desc">Consectetur adipisicing elit</p>
+					<p class="title"><a href="{{ url('refac-01') }}">Lorem ipsum dolor sit amet</a></p>
+					<p class="desc"><a href="{{ url('refac-01') }}">Consectetur adipisicing elit</a></p>
 				</div>
 			</div>
 		</div>
 
 		<div class="row">
-			<a href="#" class="button-colors centered">Conoce nuestro inventario</a>
+			<a href="{{ url('venta-de-refacciones') }}" class="button-colors centered">Conoce nuestro inventario</a>
 		</div>
 	</div>
 
@@ -74,30 +74,30 @@
 				</div>
 
 				<div class="col-xs-12 col-sm-4 refa-item">
-					<div class="photo"><a href="#"><img src="images/maquinaria01.jpg" alt="maquinaria-01"></a></div>
+					<div class="photo"><a href={{ url('piston-falange-320-sr') }}><img src="images/maquinaria01.jpg" alt="maquinaria-01"></a></div>
 					<div class="description">
-						<p class="title">Lorem ipsum dolor sit amet</p>
-						<p class="desc">Consectetur adipisicing elit</p>
+						<p class="title"><a href="{{ url('piston-falange-320-sr') }}"></a>Lorem ipsum dolor sit amet</p>
+						<p class="desc"><a href="{{ url('piston-falange-320-sr') }}">Consectetur adipisicing elit</a></p>
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-4 refa-item">
-					<div class="photo"><a href="#"><img src="images/maquinaria02.jpg" alt="maquinaria-02"></a></div>
+					<div class="photo"><a href={{ url('piston-falange-320-sr') }}><img src="images/maquinaria02.jpg" alt="maquinaria-02"></a></div>
 					<div class="description">
-						<p class="title">Lorem ipsum dolor sit amet</p>
-						<p class="desc">Consectetur adipisicing elit</p>
+						<p class="title"><a href="{{ url('piston-falange-320-sr') }}"></a>Lorem ipsum dolor sit amet</p>
+						<p class="desc"><a href="{{ url('piston-falange-320-sr') }}">Consectetur adipisicing elit</a></p>
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-4 refa-item">
-					<div class="photo"><a href="#"><img src="images/maquinaria03.jpg" alt="maquinaria-03"></a></div>
+					<div class="photo"><a href={{ url('piston-falange-320-sr') }}><img src="images/maquinaria03.jpg" alt="maquinaria-03"></a></div>
 					<div class="description">
-						<p class="title">Lorem ipsum dolor sit amet</p>
-						<p class="desc">Consectetur adipisicing elit</p>
+						<p class="title"><a href="{{ url('piston-falange-320-sr') }}"></a>Lorem ipsum dolor sit amet</p>
+						<p class="desc"><a href="{{ url('piston-falange-320-sr') }}">Consectetur adipisicing elit</a></p>
 					</div>
 				</div>
 			</div>
 
 			<div class="row">
-				<a href="#" class="button-colors centered">Conoce nuestro inventario</a>
+				<a href="{{ url('venta-y-renta-de-maquinaria') }}" class="button-colors centered">Conoce nuestro inventario</a>
 			</div>
 		</div>
 
@@ -110,11 +110,13 @@
 	</div>
 	
 	<div class="container">
-		<div class="row">
-			<div class="col-xs-12 brands-container">
-				{{-- <div class="brand-item"><img class="img-cien" src="images/brand-cat-logo.svg" alt="brand cat logo"></div> --}}
-				<div class="brand-item"><img class="img-cien" src="images/brand-power-logo.svg" alt="brand power logo"></div>
-			</div>
+		<div class="col-xs-12 brands-container">
+			<div class="brand-item"><img class="" src="images/brand-cat-logo.svg" alt="brand cat logo"></div>
+			<div class="brand-item"><img class="" src="images/brand-power-logo.svg" alt="brand power logo"></div>
+			<div class="brand-item"><img class="" src="images/brand-cat-logo.svg" alt="brand cat logo"></div>
+			<div class="brand-item"><img class="" src="images/brand-power-logo.svg" alt="brand power logo"></div>
+			<div class="brand-item"><img class="" src="images/brand-cat-logo.svg" alt="brand cat logo"></div>
+			<div class="brand-item"><img class="" src="images/brand-power-logo.svg" alt="brand power logo"></div>
 		</div>
 	</div>
 
