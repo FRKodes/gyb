@@ -11,10 +11,11 @@
 			</button>
 			<a class="navbar-brand" href="#">GyB</a>
 			<div class="collapse navbar-collapse" id="navbarCollapse">
-				<ul class="navbar-nav mr-auto">
-					<li class="nav-item active"><a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a></li>
-					<li class="nav-item"><a class="nav-link" href="#">Link</a></li>
-					<li class="nav-item"><a class="nav-link disabled" href="#">Disabled</a></li>
+				<ul class="navbar-nav">
+					<li class="nav-item"><a class="nav-link" href="#">Venta de Refacciones</a></li>
+					<li class="nav-item"><a class="nav-link" href="#">Renta de Maquinaria</a></li>
+					<li class="nav-item"><a class="nav-link" href="#">Empresa</a></li>
+					<li class="nav-item"><a class="nav-link" href="#">Contacto</a></li>
 				</ul>
 			</div>
 		</div>
