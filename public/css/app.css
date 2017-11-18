@@ -357,6 +357,56 @@ h2.title {
   background-size: cover;
 }
 
+.inner-banner.gator_primario_24x36 {
+  background: transparent url(/images/refaccion-gator-primary-24x36-1280.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.mantle_bowl_liner_hp200 {
+  background: transparent url(/images/refaccion-metso-HP200-cone-1280.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.mantle_bowl_liner_hp300 {
+  background: transparent url(/images/refaccion-metso-HP300-cone-1280.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.metso_primario_c106 {
+  background: transparent url(/images/refaccion-metso-primary-c106-1280.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.sandvik_primario_1208 {
+  background: transparent url(/images/refaccion-sandvick-primary-1208-1280.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.gator_impacto_1013 {
+  background: transparent url(/images/refaccion-gator-impact-1013-1280.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.gator_impacto_1315 {
+  background: transparent url(/images/refaccion-gator-impact-1315-1280.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.metso_impacto_lt1213 {
+  background: transparent url(/images/refaccion-metso-impact-lt1213-1280.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.metso_primario_lt120 {
+  background: transparent url(/images/refaccion-metso-primary-lt120-1280.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.gator_rodillos_varias_medidas {
+  background: transparent url(/images/refaccion-rodillos-1280.jpg) no-repeat center center;
+  background-size: cover;
+}
+
 h1.section-title {
   color: #40c3f9;
   margin-top: 30px;
@@ -669,10 +719,6 @@ footer .credits a {
   .back-black.hard-work-container {
     background-size: 1600px;
     background-position: center -160px;
-  }
-
-  .inner-banner {
-    height: 880px;
   }
 
   footer ul.social li {
