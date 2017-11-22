@@ -93,4 +93,39 @@ class PagesController extends Controller
         return View('pages.gator_rodillos_varias_medidas');
     }
 
+    public function excavadora_210_LC()
+    {
+        return View('pages.excavadora_210_LC');
+    }
+
+    public function excavadora_320_c()
+    {
+        return View('pages.excavadora_320_c');
+    }
+    
+    public function excavadora_320_CL()
+    {
+        return View('pages.excavadora_320_CL');
+    }
+    
+    public function excavadora_350_lc()
+    {
+        return View('pages.excavadora_350_lc');
+    }
+    
+    public function motoconformadora_140_h()
+    {
+        return View('pages.motoconformadora_140_h');
+    }
+
+    public function motoconformadora_845_b()
+    {
+        return View('pages.motoconformadora_845_b');
+    }
+
+    
+
+
+
+
 }

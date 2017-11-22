@@ -15,48 +15,48 @@
 	<div class="container m-top-40 m-bottom-40 refas-container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('piston-falange-320-sr') }}"><img src="images/maquinaria01.jpg" alt="refacción-01"></a></div>
+				<div class="photo"><a href={{ url('maquinaria/excavadora-210-LC') }}><img src="images/maquinaria-excavadora-210-LC-thumbnail.jpg" alt="excavadora 210 LC thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('piston-falange-320-sr') }}">Lorem ipsum dolor sit amet</a></p>
-					<p class="desc"><a href="{{ url('piston-falange-320-sr') }}">Consectetur adipisicing elit</a></p>
+					<p class="title"><a href="{{ url('maquinaria/excavadora-210-LC') }}">Excavadora R210LC-7</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/excavadora-210-LC') }}">KOMATSU</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('piston-falange-320-sr') }}"><img src="images/maquinaria02.jpg" alt="refacción-02"></a></div>
+				<div class="photo"><a href={{ url('maquinaria/excavadora-320-c') }}><img src="images/maquinaria-excavadora-320-c-thumbnail.jpg" alt="maquinaria excavadora 320 c thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('piston-falange-320-sr') }}">Lorem ipsum dolor sit amet</a></p>
-					<p class="desc"><a href="{{ url('piston-falange-320-sr') }}">Consectetur adipisicing elit</a></p>
+					<p class="title"><a href="{{ url('maquinaria/excavadora-320-c') }}">Excavadora 320 C</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/excavadora-320-c') }}">CAT</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('piston-falange-320-sr') }}"><img src="images/maquinaria03.jpg" alt="refacción-03"></a></div>
+				<div class="photo"><a href={{ url('maquinaria/excavadora-320-CL') }}><img src="images/maquinaria-excavadora-320-CL-thumbnail.jpg" alt="maquinaria excavadora 320 CL thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('piston-falange-320-sr') }}">Lorem ipsum dolor sit amet</a></p>
-					<p class="desc"><a href="{{ url('piston-falange-320-sr') }}">Consectetur adipisicing elit</a></p>
+					<p class="title"><a href="{{ url('maquinaria/excavadora-320-CL') }}">Excavadora R320LC-7</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/excavadora-320-CL') }}">CAT</a></p>
 				</div>
 			</div>
 		</div>
 
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('piston-falange-320-sr') }}"><img src="images/maquinaria02.jpg" alt="refacción-02"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/excavadora-350-lc') }}"><img src="images/maquinaria-excavadora-350-lc-thumbnail.jpg" alt="maquinaria excavadora 350 lc thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('piston-falange-320-sr') }}">Lorem ipsum dolor sit amet</a></p>
-					<p class="desc"><a href="{{ url('piston-falange-320-sr') }}">Consectetur adipisicing elit</a></p>
+					<p class="title"><a href="{{ url('maquinaria/excavadora-350-lc') }}">Excavadora-350-lc</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/excavadora-350-lc') }}">KOMATSU</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('piston-falange-320-sr') }}"><img src="images/maquinaria03.jpg" alt="refacción-03"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/motoconformadora-140-h') }}"><img src="images/maquinaria-motoconformadora-140-h-thumbnail.jpg" alt="maquinaria motoconformadora 140 h thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('piston-falange-320-sr') }}">Lorem ipsum dolor sit amet</a></p>
-					<p class="desc"><a href="{{ url('piston-falange-320-sr') }}">Consectetur adipisicing elit</a></p>
+					<p class="title"><a href="{{ url('maquinaria/motoconformadora-140-h') }}">Motoconformadora 140 h</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/motoconformadora-140-h') }}">CAT</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('piston-falange-320-sr') }}"><img src="images/maquinaria01.jpg" alt="refacción-01"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/motoconformadora-845-b') }}"><img src="images/maquinaria-motoconformadora-845-b-thumbnail.jpg" alt="maquinaria motoconformadora 845 b thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('piston-falange-320-sr') }}">Lorem ipsum dolor sit amet</a></p>
-					<p class="desc"><a href="{{ url('piston-falange-320-sr') }}">Consectetur adipisicing elit</a></p>
+					<p class="title"><a href="{{ url('maquinaria/motoconformadora-845-b') }}">Motoconformadora 845 b</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/motoconformadora-845-b') }}">CASE</a></p>
 				</div>
 			</div>
 		</div>
