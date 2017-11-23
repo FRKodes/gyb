@@ -33,10 +33,10 @@
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('refaccion/refaccion/sandvik-primario-1208') }}"><img src="images/refaccion-sandvick-primary-thumbnail.jpg" alt="refaccion sandvick primary thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('refaccion/sandvik-primario-1208') }}"><img src="images/refaccion-sandvick-primary-thumbnail.jpg" alt="refaccion sandvick primary thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('refaccion/refaccion/sandvik-primario-1208') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
-					<p class="desc"><a href="{{ url('refaccion/refaccion/sandvik-primario-1208') }}">SANDVIK PRIMARIO 1208</a></p>
+					<p class="title"><a href="{{ url('refaccion/sandvik-primario-1208') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
+					<p class="desc"><a href="{{ url('refaccion/sandvik-primario-1208') }}">SANDVIK PRIMARIO 1208</a></p>
 				</div>
 			</div>
 		</div>
