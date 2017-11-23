@@ -1,13 +1,13 @@
 @extends('app')
 
 @section('content')
-	<div class="inner-banner motoconformadora_845_b"></div>
+	<div class="inner-banner retroexcavadora_580_m"></div>
 
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-5">
-				<h1 class="section-title passion">Motoconformadora 845 b</h1>
-				<h2>Case</h2>
+				<h1 class="section-title passion">Retroexcavadora 580 m</h1>
+				<h2>CASE</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 empresa-text">
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>

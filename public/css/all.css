@@ -523,9 +523,30 @@ h2.title {
   background-size: cover;
 }
 
+.inner-banner.retroexcavadora_416_e {
+  background: transparent url(/images/maquinaria-retroexcavadora-416-e-1920.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.retroexcavadora_580_m {
+  background: transparent url(/images/maquinaria-retroexcavadora-580-m-1920.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.retroexcavadora_super_n {
+  background: transparent url(/images/maquinaria-retroexcavadora-super-n-1920.jpg) no-repeat center center;
+  background-size: cover;
+}
+
 h1.section-title {
   color: #40c3f9;
   margin-top: 30px;
+}
+
+.error .form-control {
+  border: 1px solid red;
+  -webkit-transition: border 1s ease;
+  transition: border 1s ease;
 }
 
 .form-control {

@@ -61,6 +61,30 @@
 			</div>
 		</div>
 
+		<div class="row">
+			<div class="col-xs-12 col-sm-4 refa-item">
+				<div class="photo"><a href="{{ url('maquinaria/retroexcavadora-416-e') }}"><img src="images/maquinaria-retroexcavadora-416-e-thumbnail.jpg" alt="maquinaria retroexcavadora 416 e thumbnail"></a></div>
+				<div class="description">
+					<p class="title"><a href="{{ url('maquinaria/retroexcavadora-416-e') }}">Excavadora 416 e</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/retroexcavadora-416-e') }}">CAT</a></p>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-4 refa-item">
+				<div class="photo"><a href="{{ url('maquinaria/retroexcavadora-580-m') }}"><img src="images/maquinaria-retroexcavadora-580-m-thumbnail.jpg" alt="maquinaria retroexcavadora 580 m thumbnail"></a></div>
+				<div class="description">
+					<p class="title"><a href="{{ url('maquinaria/retroexcavadora-580-m') }}">Retroexcavadora 580 m</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/retroexcavadora-580-m') }}">CASE</a></p>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-4 refa-item">
+				<div class="photo"><a href="{{ url('maquinaria/retroexcavadora-super-n') }}"><img src="images/maquinaria-retroexcavadora-super-n-thumbnail.jpg" alt="maquinaria retroexcavadora super n thumbnail"></a></div>
+				<div class="description">
+					<p class="title"><a href="{{ url('maquinaria/retroexcavadora-super-n') }}">Retroexcavadora super n</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/retroexcavadora-super-n') }}">CASE</a></p>
+				</div>
+			</div>
+		</div>
+
 
 
 		<div class="row">

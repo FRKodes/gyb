@@ -123,6 +123,21 @@ class PagesController extends Controller
         return View('pages.motoconformadora_845_b');
     }
 
+    public function retroexcavadora_416_e()
+    {
+        return View('pages.retroexcavadora_416_e');
+    }
+
+    public function retroexcavadora_580_m()
+    {
+        return View('pages.retroexcavadora_580_m');
+    }
+
+    public function retroexcavadora_super_n()
+    {
+        return View('pages.retroexcavadora_super_n');
+    }
+
     
 
 

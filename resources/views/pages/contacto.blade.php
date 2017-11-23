@@ -17,9 +17,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-6 form">
-				<form action="">
+				<form action="/sendmail" method="post" id="contactForm">
 					<div class="form-group">
-						<input type="text" name="nombre" placeholder="Nombre" class="form-control">
+						<input type="text" name="nombre" placeholder="*Nombre" class="form-control" data-validate="required">
 					</div>
 					<div class="form-group">
 						<input type="text" name="ciudad" placeholder="Ciudad" class="form-control">
@@ -28,10 +28,10 @@
 						<input type="text" name="telefono" placeholder="Teléfono" class="form-control">
 					</div>
 					<div class="form-group">
-						<input type="text" name="email" placeholder="Correo electrónico" class="form-control">
+						<input type="text" name="email" placeholder="*Correo electrónico" class="form-control" data-validate="required|email">
 					</div>
 					<div class="form-group">
-						<textarea name="comentario" id="comentario" placeholder="Comentario" class="form-control" cols="30" rows="10"></textarea>
+						<textarea name="comentario" id="comentario" placeholder="*Comentario" class="form-control" cols="30" rows="10" data-validate="required"></textarea>
 					</div>
 					<div class="form-group text-center">
 						<input type="submit" class="button-colors" value="Enviar información">

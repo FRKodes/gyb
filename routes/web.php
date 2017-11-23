@@ -32,6 +32,9 @@ Route::get('maquinaria/excavadora-320-CL', 'PagesController@excavadora_320_CL');
 Route::get('maquinaria/excavadora-350-lc', 'PagesController@excavadora_350_lc');
 Route::get('maquinaria/motoconformadora-140-h', 'PagesController@motoconformadora_140_h');
 Route::get('maquinaria/motoconformadora-845-b', 'PagesController@motoconformadora_845_b');
+Route::get('maquinaria/retroexcavadora-416-e', 'PagesController@retroexcavadora_416_e');
+Route::get('maquinaria/retroexcavadora-580-m', 'PagesController@retroexcavadora_580_m');
+Route::get('maquinaria/retroexcavadora-super-n', 'PagesController@retroexcavadora_super_n');
 Route::get('empresa', 'PagesController@empresa');
 Route::get('contacto', 'PagesController@contacto');
 
