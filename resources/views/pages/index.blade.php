@@ -19,24 +19,24 @@
 	<div class="container m-top-40 refas-container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('gator-primario-24x36') }}"><img src="images/refaccion-gator-primary-24x36-thumbnail.jpg" alt="refacción gator primary thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('refaccion/gator-primario-24x36') }}"><img src="images/refaccion-gator-primary-24x36-thumbnail.jpg" alt="refacción gator primary thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('gator-primario-24x36') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
-					<p class="desc"><a href="{{ url('gator-primario-24x36') }}">GATOR PRIMARIO 24X36</a></p>
+					<p class="title"><a href="{{ url('refaccion/gator-primario-24x36') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
+					<p class="desc"><a href="{{ url('refaccion/gator-primario-24x36') }}">GATOR PRIMARIO 24X36</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('mantle-bowl-liner-hp200') }}"><img src="images/refaccion-metso-HP200-cone-thumbnail.jpg" alt="refacción metso HP200 cone thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}"><img src="images/refaccion-metso-HP200-cone-thumbnail.jpg" alt="refacción metso HP200 cone thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('mantle-bowl-liner-hp200') }}">MANTLE Y BOWL LINER</a></p>
-					<p class="desc"><a href="{{ url('mantle-bowl-liner-hp200') }}">METSO CONO HP200</a></p>
+					<p class="title"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}">MANTLE Y BOWL LINER</a></p>
+					<p class="desc"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}">METSO CONO HP200</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('refac-01') }}"><img src="images/refaccion-sandvick-primary-thumbnail.jpg" alt="refaccion sandvick primary thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('refaccion/refaccion/sandvik-primario-1208') }}"><img src="images/refaccion-sandvick-primary-thumbnail.jpg" alt="refaccion sandvick primary thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('refac-01') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
-					<p class="desc"><a href="{{ url('refac-01') }}">SANDVIK PRIMARIO 1208</a></p>
+					<p class="title"><a href="{{ url('refaccion/refaccion/sandvik-primario-1208') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
+					<p class="desc"><a href="{{ url('refaccion/refaccion/sandvik-primario-1208') }}">SANDVIK PRIMARIO 1208</a></p>
 				</div>
 			</div>
 		</div>
