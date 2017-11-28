@@ -1,5 +1,18 @@
 console.log('ok!');
 
+function initMap() {
+	var myLatLng = {lat: 20.570726, lng: -103.340889};
+	var map = new google.maps.Map(document.getElementById('map'), {
+		zoom: 13,
+		center: myLatLng
+	});
+	var marker = new google.maps.Marker({
+		position: myLatLng,
+		map: map,
+		title: 'GyB Maquinaria + Minería'
+	});
+}
+
 /*validator*/
 $(function(){
 
@@ -16,14 +29,15 @@ $(function(){
 			var form    	= $('#contactForm'),
 				nombre		= form.find( "input[name='nombre']").val(),
 				email		= form.find( "input[name='email']").val(),
-				tel			= form.find( "input[name='tel']").val(),
+				ciudad		= form.find( "input[name='ciudad']").val(),
+				telefono	= form.find( "input[name='telefono']").val(),
 				comentario	= form.find( "textarea[name='comentario']").val(),
 				_token		= form.find( "input[name='_token']").val(),
 				action		= form.attr( "action"),
 				url			= action;
 
 			var posting = $.post(
-				url, { nombre: nombre, tel:tel, email: email, _token: _token, comentario: comentario }
+				url, { nombre: nombre, telefono: telefono, ciudad: ciudad, email: email, _token: _token, comentario: comentario }
 			);
 			posting.done(function( data ){
 				console.log('email sent! \n' + data );

@@ -37,4 +37,5 @@ Route::get('maquinaria/retroexcavadora-580-m', 'PagesController@retroexcavadora_
 Route::get('maquinaria/retroexcavadora-super-n', 'PagesController@retroexcavadora_super_n');
 Route::get('empresa', 'PagesController@empresa');
 Route::get('contacto', 'PagesController@contacto');
+Route::post('sendmail', 'PagesController@sendmail');
 

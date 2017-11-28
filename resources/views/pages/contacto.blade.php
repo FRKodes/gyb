@@ -18,6 +18,7 @@
 		<div class="row">
 			<div class="col-sm-6 form">
 				<form action="/sendmail" method="post" id="contactForm">
+					<input type="hidden" name="_token" value="{{ csrf_token() }}">
 					<div class="form-group">
 						<input type="text" name="nombre" placeholder="*Nombre" class="form-control" data-validate="required">
 					</div>
@@ -36,7 +37,7 @@
 					<div class="form-group text-center">
 						<input type="submit" class="button-colors" value="Enviar información">
 					</div>
-					
+					<div class="sent_mail_alert text-center">¡GRACIAS!<br>Tu comentario se ha enviado con éxito. En breve nos pondremos en contacto contigo.</div>
 				</form>
 			</div>
 			<div class="col-sm-6 info-map">

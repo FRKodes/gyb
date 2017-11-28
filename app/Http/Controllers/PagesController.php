@@ -2,7 +2,9 @@
 
 namespace App\Http\Controllers;
 
+use Mail;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Input as Input;
 
 class PagesController extends Controller
 {
@@ -138,7 +140,13 @@ class PagesController extends Controller
         return View('pages.retroexcavadora_super_n');
     }
 
-    
+    public function sendmail()
+    {
+
+        Mail::send('emails.contacto-email', [], function($message){
+            $message->to('frkalderon@gmail.com', 'GyB Web')->subject('Contacto desde GyB Web');
+        });
+    }   
 
 
 
