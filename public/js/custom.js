@@ -52,14 +52,23 @@ $(function(){
 });
 
 $('.brands-container').slick({
-	dots: false,
+	dots: true,
 	infinite: true,
 	speed: 300,
-	slidesToShow: 6,
-	slidesToScroll: 1,
+	autoplay: true,
+	slidesToShow: 4,
+	slidesToScroll: 3,
 	responsive: [
 		{
-			breakpoint: 600,
+			breakpoint: 992,
+			settings: {
+				slidesToShow: 2,
+				slidesToScroll: 1,
+				dots: true
+			}
+		},
+		{
+			breakpoint: 480,
 			settings: {
 				slidesToShow: 1,
 				slidesToScroll: 1,

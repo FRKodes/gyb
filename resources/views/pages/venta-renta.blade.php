@@ -87,7 +87,7 @@
 
 
 
-		<div class="row">
+		<div class="row" style="display: none;">
 			<a href="#" class="button-colors centered">Mostrar más</a>
 		</div>
 	</div>

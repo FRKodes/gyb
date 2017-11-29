@@ -404,6 +404,8 @@ h2.title {
 
 .slick-arrow {
   color: transparent;
+  border: none;
+  background: none;
 }
 
 .slick-dots {
@@ -875,7 +877,7 @@ footer .credits a {
   }
 
   .brands-container .brand-item img {
-    width: 75%;
+    width: 100%;
   }
 
   .inner-banner {

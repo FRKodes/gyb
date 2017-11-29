@@ -111,12 +111,14 @@
 	
 	<div class="container">
 		<div class="col-xs-12 brands-container">
-			<div class="brand-item"><img class="" src="images/brand-cat-logo.svg" alt="brand cat logo"></div>
-			<div class="brand-item"><img class="" src="images/brand-power-logo.svg" alt="brand power logo"></div>
-			<div class="brand-item"><img class="" src="images/brand-cat-logo.svg" alt="brand cat logo"></div>
-			<div class="brand-item"><img class="" src="images/brand-power-logo.svg" alt="brand power logo"></div>
-			<div class="brand-item"><img class="" src="images/brand-cat-logo.svg" alt="brand cat logo"></div>
-			<div class="brand-item"><img class="" src="images/brand-power-logo.svg" alt="brand power logo"></div>
+			<div class="brand-item"><img class="" src="images/logo-case-gyb-marcas.png" alt="logo case gyb marcas"></div>
+			<div class="brand-item"><img class="" src="images/logo-caterpillar-gyb-marcas.png" alt="logo caterpillar gyb marcas"></div>
+			<div class="brand-item"><img class="" src="images/logo-cec-gyb-marcas.png" alt="logo cec gyb marcas"></div>
+			<div class="brand-item"><img class="" src="images/logo-gator-gyb-marcas.png" alt="logo gator gyb marcas"></div>
+			<div class="brand-item"><img class="" src="images/logo-komatsu-gyb-marcas.png" alt="logo komatsu gyb marcas"></div>
+			<div class="brand-item"><img class="" src="images/logo-metso-gyb-marcas.png" alt="logo metso gyb marcas"></div>
+			<div class="brand-item"><img class="" src="images/logo-powerscreen-gyb-marcas.png" alt="logo powerscreen gyb marcas"></div>
+			<div class="brand-item"><img class="" src="images/logo-terex-gyb-marcas.png" alt="logo terex gyb marcas"></div>
 		</div>
 	</div>
 
