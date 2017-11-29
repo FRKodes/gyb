@@ -11,6 +11,8 @@
 	background: black
 .p-top-40
 	padding-top: 40px
+.p-bottom-5
+	padding-bottom: 5px !important
 .p-bottom-40
 	padding-bottom: 40px
 .m-top-40
@@ -45,7 +47,7 @@
 body
 	background: white
 	font-family: $oswald
-	padding-top: 65px
+	padding-top: 64px
 .top-row
 	display: block
 	width: 100%
@@ -58,6 +60,13 @@ body
 			&.navbar-brand
 				color: $azul-01
 				text-decoration: none
+				position: absolute
+				right: 0
+				display: flex
+				align-items: center
+				height: 100%
+				img
+					width: 60px
 
 	&.blue
 		background: $azul-01
@@ -87,7 +96,7 @@ body
 	width: 100%
 	position: absolute
 	left: 0px
-	top: 69px
+	top: 64px
 	background: black
 	&.in
 		display: block! important
@@ -213,6 +222,9 @@ h2.title
 	display: block
 	&.venta-renta
 		background: transparent url(/images/banner-venta-renta-maquinaria.jpg) no-repeat center center
+		background-size: cover
+	&.refacciones
+		background: transparent url(/images/refacciones-banner-motor.jpg) no-repeat center center
 		background-size: cover
 	&.empresa
 		background: transparent url(/images/banner-empresal.jpg) no-repeat center center
@@ -356,7 +368,7 @@ footer
 		flex-direction: column
 	.navbar-dark
 		.navbar-nav
-			padding: 10px 0
+			padding: 0
 			.nav-link
 				color: $azul-01
 				text-transform: uppercase
@@ -367,6 +379,10 @@ footer
 		top: unset
 		background: transparent
 		justify-content: flex-end
+	.top-row
+		.inner-container
+			a.navbar-brand
+				position: relative
 	.main-banners-container
 		height: 650px
 		.item

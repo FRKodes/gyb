@@ -7,7 +7,7 @@
 <div class="container contact-info">
 	
 	<div class="phone-email">
-		<p class="text-center"><a class="white" href="tel:(33) 4445-4818">Informes al (33) 4445-4818</a></p>
+		<p class="text-center"><a class="white" href="tel:(33) 4445-4818">Informes al (33) 3601-0665</a></p>
 		<p class="text-center"><a class="white" href="mailto:info@gybmaquinaria.com">info@gybmaquinaria.com</a></p>
 	</div>
 

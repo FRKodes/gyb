@@ -1,7 +1,7 @@
 @extends('app')
 
 @section('content')
-	<div class="inner-banner venta-renta"></div>
+	<div class="inner-banner refacciones"></div>
 
 	<div class="container">
 		<div class="row">

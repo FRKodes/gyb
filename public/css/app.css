@@ -18,6 +18,10 @@
   padding-top: 40px;
 }
 
+.p-bottom-5 {
+  padding-bottom: 5px !important;
+}
+
 .p-bottom-40 {
   padding-bottom: 40px;
 }
@@ -71,7 +75,7 @@
 body {
   background: white;
   font-family: "Oswald", sans-serif;
-  padding-top: 65px;
+  padding-top: 64px;
 }
 
 .top-row {
@@ -92,6 +96,19 @@ body {
 .top-row .inner-container a.navbar-brand {
   color: #40c3f9;
   text-decoration: none;
+  position: absolute;
+  right: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100%;
+}
+
+.top-row .inner-container a.navbar-brand img {
+  width: 60px;
 }
 
 .top-row.blue {
@@ -140,7 +157,7 @@ body {
   width: 100%;
   position: absolute;
   left: 0px;
-  top: 69px;
+  top: 64px;
   background: black;
 }
 
@@ -339,6 +356,11 @@ h2.title {
 
 .inner-banner.venta-renta {
   background: transparent url(/images/banner-venta-renta-maquinaria.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.refacciones {
+  background: transparent url(/images/refacciones-banner-motor.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -572,7 +594,7 @@ footer .credits a {
   }
 
   .navbar-dark .navbar-nav {
-    padding: 10px 0;
+    padding: 0;
   }
 
   .navbar-dark .navbar-nav .nav-link {
@@ -589,6 +611,10 @@ footer .credits a {
     -webkit-box-pack: end;
         -ms-flex-pack: end;
             justify-content: flex-end;
+  }
+
+  .top-row .inner-container a.navbar-brand {
+    position: relative;
   }
 
   .main-banners-container {
