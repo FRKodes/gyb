@@ -27,8 +27,8 @@
 		<div class="col-xs-12">
 			<p class="text-center">Síguenos en nuestras redes sociales</p>
 			<ul class="social">
-				<li><a href="#" class="icon-fb"></a></li>
-				<li><a href="#" class="icon-in"></a></li>
+				<li><a href="https://www.facebook.com/" target="_blank" class="icon-fb"></a></li>
+				<li><a href="https://www.linkedin.com/" target="_blank" class="icon-in"></a></li>
 			</ul>
 		</div>
 		<div class="col-xs-12">
