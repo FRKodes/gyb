@@ -140,6 +140,31 @@ class PagesController extends Controller
         return View('pages.retroexcavadora_super_n');
     }
 
+    public function camion_articulado_cat_740()
+    {
+        return View('pages.camion_articulado_cat_740');
+    }
+
+    public function camion_pipa_continental_20k_litros()
+    {
+        return View('pages.camion_pipa_continental_20k_litros');
+    }
+
+    public function camion_volteo_14mts()
+    {
+        return View('pages.camion_volteo_14mts');
+    }
+
+    public function cargador_frontal_case_721C()
+    {
+        return View('pages.cargador_frontal_case_721C');
+    }
+
+    public function cargador_frontal_case_721e()
+    {
+        return View('pages.cargador_frontal_case_721e');
+    }
+
     public function sendmail()
     {
 

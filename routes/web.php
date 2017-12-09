@@ -35,6 +35,11 @@ Route::get('maquinaria/motoconformadora-845-b', 'PagesController@motoconformador
 Route::get('maquinaria/retroexcavadora-416-e', 'PagesController@retroexcavadora_416_e');
 Route::get('maquinaria/retroexcavadora-580-m', 'PagesController@retroexcavadora_580_m');
 Route::get('maquinaria/retroexcavadora-super-n', 'PagesController@retroexcavadora_super_n');
+Route::get('maquinaria/camion-articulado-cat-740', 'PagesController@camion_articulado_cat_740');
+Route::get('maquinaria/camion-pipa-continental-20k-litros', 'PagesController@camion_pipa_continental_20k_litros');
+Route::get('maquinaria/camion-volteo-14mts', 'PagesController@camion_volteo_14mts');
+Route::get('maquinaria/cargador-frontal-case-721C', 'PagesController@cargador_frontal_case_721C');
+Route::get('maquinaria/cargador-frontal-case-721e', 'PagesController@cargador_frontal_case_721e');
 Route::get('empresa', 'PagesController@empresa');
 Route::get('contacto', 'PagesController@contacto');
 Route::post('sendmail', 'PagesController@sendmail');
