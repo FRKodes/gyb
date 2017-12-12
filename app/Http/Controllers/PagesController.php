@@ -165,6 +165,121 @@ class PagesController extends Controller
         return View('pages.cargador_frontal_case_721e');
     }
 
+    public function cargador_frontal_cat_966()
+    {
+        return View('pages.cargador_frontal_cat_966');
+    }
+
+    public function cono_secundario_metso_sobre_orugas()
+    {
+        return View('pages.cono_secundario_metso_sobre_orugas');
+    }
+
+    public function cono_secundario_semifijo_414()
+    {
+        return View('pages.cono_secundario_semifijo_414');
+    }
+
+    public function escavadora_hyundai()
+    {
+        return View('pages.escavadora_hyundai');
+    }
+
+    public function excavadora_cat_320c()
+    {
+        return View('pages.excavadora_cat_320c');
+    }
+
+    public function excavadora_doosan_225lx()
+    {
+        return View('pages.excavadora_doosan_225lx');
+    }
+
+    public function excavadora_dossan_340()
+    {
+        return View('pages.excavadora_dossan_340');
+    }
+
+    public function excavadora_komatsu_pc210()
+    {
+        return View('pages.excavadora_komatsu_pc210');
+    }
+
+    public function excavadora_komatsu_pc350()
+    {
+        return View('pages.excavadora_komatsu_pc350');
+    }
+
+    public function generador_cummins_125_kva()
+    {
+        return View('pages.generador_cummins_125_kva');
+    }
+
+    public function generador_himmoinsa_245_kva()
+    {
+        return View('pages.generador_himmoinsa_245_kva');
+    }
+
+    public function motoconformadora_case_485()
+    {
+        return View('pages.motoconformadora_case_485');
+    }
+
+    public function motoconformadora_cat_140H()
+    {
+        return View('pages.motoconformadora_cat_140H');
+    }
+
+    public function motoconformadora_champion_730a()
+    {
+        return View('pages.motoconformadora_champion_730a');
+    }
+
+    public function planta_luz_yanmar()
+    {
+        return View('pages.planta_luz_yanmar');
+    }
+
+    public function retroescavadora_caser_580m()
+    {
+        return View('pages.retroescavadora_caser_580m');
+    }
+
+    public function retroexcabadora_cat_416e()
+    {
+        return View('pages.retroexcabadora_cat_416e');
+    }
+
+    public function tractor_sobre_orugas_cat_dr8()
+    {
+        return View('pages.tractor_sobre_orugas_cat_dr8');
+    }
+
+    public function tractor_sobre_orugas_komatsu_d155ax()
+    {
+        return View('pages.tractor_sobre_orugas_komatsu_d155ax');
+    }
+
+    public function triturador_primario_gator_30x42()
+    {
+        return View('pages.triturador_primario_gator_30x42');
+    }
+
+    public function trituradora_impacto_secundaria_gator()
+    {
+        return View('pages.trituradora_impacto_secundaria_gator');
+    }
+
+    public function trituradora_secundaria_quijada_sfk()
+    {
+        return View('pages.trituradora_secundaria_quijada_sfk');
+    }
+
+    public function vibrocompactador_ingersold_rand()
+    {
+        return View('pages.vibrocompactador_ingersold_rand');
+    }
+
     public function sendmail()
     {
 
