@@ -10,9 +10,12 @@
 				<h2>METSO</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 empresa-text">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>
+				<p>Esta trituradora secundaria en este modelo tiene la capacidad de recibir material hasta de 9" y entregar minimo hasta de 1"</p>
+				<p>Puede entregaar hasta 550 toneladas por hora (varia según el material)</p>
+				<p>Tiene un peso de 43 toneladas en el mismo chasis cuenta con un alimentador con capacidad de 7m3</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
 			</div>
 		</div>
 	</div>

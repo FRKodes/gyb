@@ -10,9 +10,13 @@
 				<h2>Case</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 empresa-text">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>
+				<p>Cuenta con un motor tier 3 de 6 cilindros.</p>
+				<p>Potencia de 173 hp.</p>
+				<p>Tiene un peso de 15 toneladas.</p>
+				<p>Cuenta con una cuchilla de 12 pies.</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
 			</div>
 		</div>
 	</div>
