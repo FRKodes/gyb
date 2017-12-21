@@ -9,7 +9,9 @@
 		</div>
 		<div class="row">
 			<div class="col-xs-12">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>
+				<p>
+				Para nosotros, el contacto con nuestros clientes es muy importante, por lo tanto dejamos a continuación este formulario de contacto si necesitas comunicarte con nosotros.
+				</p>
 			</div>
 		</div>
 	</div>

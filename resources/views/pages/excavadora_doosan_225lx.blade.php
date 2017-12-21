@@ -10,11 +10,11 @@
 				<h2>DOSSAN</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 empresa-text">
-				<p>CUENTA CON UN MOTOR DOOSAN DLo6 DE 6 CILINDROS</p>
-				<p>POTENCIA DE 148HP</p>
-				<p>TIENE UN PESO DE 23 TONELADAS</p>
-				<p>CUENTA CON UN BOTE FRONTAL CON CAPACIDAD DE 1.05M3</p>
-				<p>PUEDE EXCAVAR HASTA 9.3M</p>
+				<p>Cuenta con un motor doosan dlo6 de 6 cilindros</p>
+				<p>Potencia de 148 hp</p>
+				<p>Tiene un peso de 23 toneladas</p>
+				<p>Cuenta con un bote frontal con capacidad de 1.05 m3</p>
+				<p>Puede excavar hasta 9.3 m</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>

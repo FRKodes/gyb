@@ -11,8 +11,8 @@
 			</div>
 			<div class="col-xs-12 col-sm-7 empresa-text">
 				<p>Esta trituradora primaria en este modelo tiene la capacidad de recibir material hasta de 30" y entregar minimo hasta de 4"</p>
-				<p>Puede entregaar hasta 620 toneladas por hora (varia según el material)</p>
-				<p>Tiene un peso de 40 toneladas en el mismo chasis cuenta con un alimentador con capacidad de 7m3.</p>
+				<p>Puede entregar hasta 620 toneladas por hora (varia según el material)</p>
+				<p>Tiene un peso de 40 toneladas en el mismo chasis cuenta con un alimentador con capacidad de 7 m3.</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>
