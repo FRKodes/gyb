@@ -6,7 +6,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-5">
-				<h1 class="section-title passion">TRITURADORA IMPACTO SECUNDARIA</h1>
+				<h1 class="section-title passion">TRITURADORA DE IMPACTO SECUNDARIA 1315</h1>
 				<h2>GATOR</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 empresa-text">

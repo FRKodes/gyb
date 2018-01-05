@@ -34,7 +34,7 @@ Route::get('maquinaria/motoconformadora-140-h', 'PagesController@motoconformador
 Route::get('maquinaria/motoconformadora-845-b', 'PagesController@motoconformadora_845_b');
 Route::get('maquinaria/retroexcavadora-416-e', 'PagesController@retroexcavadora_416_e');
 Route::get('maquinaria/retroexcavadora-580-m', 'PagesController@retroexcavadora_580_m');
-Route::get('maquinaria/retroexcavadora-super-n', 'PagesController@retroexcavadora_super_n');
+Route::get('maquinaria/retroexcavadora-super-m', 'PagesController@retroexcavadora_super_m');
 Route::get('maquinaria/camion-articulado-cat-740', 'PagesController@camion_articulado_cat_740');
 Route::get('maquinaria/camion-pipa-continental-20k-litros', 'PagesController@camion_pipa_continental_20k_litros');
 Route::get('maquinaria/camion-volteo-14mts', 'PagesController@camion_volteo_14mts');
@@ -56,7 +56,7 @@ Route::get('maquinaria/motoconformadora-cat-140H', 'PagesController@motoconforma
 Route::get('maquinaria/motoconformadora-champion-730a', 'PagesController@motoconformadora_champion_730a');
 Route::get('maquinaria/planta-luz-yanmar', 'PagesController@planta_luz_yanmar');
 Route::get('maquinaria/retroexcavadora-case-580m', 'PagesController@retroexcavadora_case_580m');
-Route::get('maquinaria/retroexcabadora-cat-416e', 'PagesController@retroexcabadora_cat_416e');
+Route::get('maquinaria/retroexcavadora-cat-416e', 'PagesController@retroexcavadora_cat_416e');
 Route::get('maquinaria/tractor-sobre-orugas-cat-dr8', 'PagesController@tractor_sobre_orugas_cat_dr8');
 Route::get('maquinaria/tractor-sobre-orugas-komatsu-d155ax', 'PagesController@tractor_sobre_orugas_komatsu_d155ax');
 Route::get('maquinaria/triturador-primario-gator-30x42', 'PagesController@triturador_primario_gator_30x42');

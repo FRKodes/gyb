@@ -135,9 +135,9 @@ class PagesController extends Controller
         return View('pages.retroexcavadora_580_m');
     }
 
-    public function retroexcavadora_super_n()
+    public function retroexcavadora_super_m()
     {
-        return View('pages.retroexcavadora_super_n');
+        return View('pages.retroexcavadora_super_m');
     }
 
     public function camion_articulado_cat_740()
@@ -245,9 +245,9 @@ class PagesController extends Controller
         return View('pages.retroexcavadora_case_580m');
     }
 
-    public function retroexcabadora_cat_416e()
+    public function retroexcavadora_cat_416e()
     {
-        return View('pages.retroexcabadora_cat_416e');
+        return View('pages.retroexcavadora_cat_416e');
     }
 
     public function tractor_sobre_orugas_cat_dr8()
