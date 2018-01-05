@@ -1,12 +1,12 @@
 @extends('app')
 
 @section('content')
-	<div class="inner-banner escavadora_hyundai"></div>
+	<div class="inner-banner excavadora_hyundai"></div>
 
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-5">
-				<h1 class="section-title passion">ESCAVADORA</h1>
+				<h1 class="section-title passion">EXCAVADORA</h1>
 				<h2>HYUNDAI</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 empresa-text">

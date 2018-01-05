@@ -1,13 +1,13 @@
 @extends('app')
 
 @section('content')
-	<div class="inner-banner retroescavadora_caser_580m"></div>
+	<div class="inner-banner retroexcavadora_case_580m"></div>
 
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-5">
-				<h1 class="section-title passion">RETROESCAVADORA 580M</h1>
-				<h2>CASER</h2>
+				<h1 class="section-title passion">RETROEXCAVADORA 580 M</h1>
+				<h2>CASE</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 empresa-text">
 				<p>Cuenta con un motor tier 3  de 4 cilindros.</p>

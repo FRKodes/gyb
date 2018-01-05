@@ -15,29 +15,29 @@
 	<div class="container m-top-40 m-bottom-40 refas-container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href={{ url('maquinaria/excavadora-210-LC') }}><img src="images/maquinaria-excavadora-210-LC-thumbnail.jpg" alt="excavadora 210 LC thumbnail"></a></div>
-				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/excavadora-210-LC') }}">Excavadora R210LC-7</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/excavadora-210-LC') }}">KOMATSU</a></p>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href={{ url('maquinaria/excavadora-320-c') }}><img src="images/maquinaria-excavadora-320-c-thumbnail.jpg" alt="maquinaria excavadora 320 c thumbnail"></a></div>
-				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/excavadora-320-c') }}">Excavadora 320 C</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/excavadora-320-c') }}">CAT</a></p>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-4 refa-item">
 				<div class="photo"><a href={{ url('maquinaria/excavadora-320-CL') }}><img src="images/maquinaria-excavadora-320-CL-thumbnail.jpg" alt="maquinaria excavadora 320 CL thumbnail"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/excavadora-320-CL') }}">Excavadora R320LC-7</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/excavadora-320-CL') }}">CAT</a></p>
 				</div>
 			</div>
+			<div class="col-xs-12 col-sm-4 refa-item">
+				<div class="photo"><a href="{{ url('maquinaria/retroexcavadora-super-n') }}"><img src="images/maquinaria-retroexcavadora-super-n-thumbnail.jpg" alt="maquinaria retroexcavadora super n thumbnail"></a></div>
+				<div class="description">
+					<p class="title"><a href="{{ url('maquinaria/retroexcavadora-super-n') }}">Retroexcavadora super n</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/retroexcavadora-super-n') }}">CASE</a></p>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-4 refa-item">
+				<div class="photo"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}"><img src="images/maquinaria-vibrocompactador-ingersold-rand-thumb.jpg" alt="maquinaria vibrocompactador ingersold rand thumbnail"></a></div>
+				<div class="description">
+					<p class="title"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}">vibrocompactador</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}">ingersold rand</a></p>
+				</div>
+			</div>
 		</div>
 
-		<div class="row">
+		{{-- <div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
 				<div class="photo"><a href="{{ url('maquinaria/excavadora-350-lc') }}"><img src="images/maquinaria-excavadora-350-lc-thumbnail.jpg" alt="maquinaria excavadora 350 lc thumbnail"></a></div>
 				<div class="description">
@@ -59,31 +59,7 @@
 					<p class="desc"><a href="{{ url('maquinaria/motoconformadora-845-b') }}">CASE</a></p>
 				</div>
 			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/retroexcavadora-416-e') }}"><img src="images/maquinaria-retroexcavadora-416-e-thumbnail.jpg" alt="maquinaria retroexcavadora 416 e thumbnail"></a></div>
-				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/retroexcavadora-416-e') }}">Excavadora 416 e</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/retroexcavadora-416-e') }}">CAT</a></p>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/retroexcavadora-580-m') }}"><img src="images/maquinaria-retroexcavadora-580-m-thumbnail.jpg" alt="maquinaria retroexcavadora 580 m thumbnail"></a></div>
-				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/retroexcavadora-580-m') }}">Retroexcavadora 580 m</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/retroexcavadora-580-m') }}">CASE</a></p>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/retroexcavadora-super-n') }}"><img src="images/maquinaria-retroexcavadora-super-n-thumbnail.jpg" alt="maquinaria retroexcavadora super n thumbnail"></a></div>
-				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/retroexcavadora-super-n') }}">Retroexcavadora super n</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/retroexcavadora-super-n') }}">CASE</a></p>
-				</div>
-			</div>
-		</div>
+		</div> --}}
 
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
@@ -120,14 +96,14 @@
 			<div class="col-xs-12 col-sm-4 refa-item">
 				<div class="photo"><a href="{{ url('maquinaria/cargador-frontal-case-721e') }}"><img src="images/maquinaria-cargador-frontal-case-721e-thumb.jpg" alt="maquinaria-cargador-frontal-case-721e-thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/cargador-frontal-case-721e') }}">Maquinaria cargador frontal 721e</a></p>
+					<p class="title"><a href="{{ url('maquinaria/cargador-frontal-case-721e') }}">Cargador frontal 721e</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/cargador-frontal-case-721e') }}">Case</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
 				<div class="photo"><a href="{{ url('maquinaria/cargador-frontal-cat-966') }}"><img src="images/maquinaria-cargador-frontal-cat-966-thumb.jpg" alt="maquinaria cargador frontal cat 966 thummnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/cargador-frontal-cat-966') }}">Cargador frontal 966</a></p>
+					<p class="title"><a href="{{ url('maquinaria/cargador-frontal-cat-966') }}">Cargador frontal 966 F</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/cargador-frontal-cat-966') }}">CAT</a></p>
 				</div>
 			</div>
@@ -137,22 +113,22 @@
 			<div class="col-xs-12 col-sm-4 refa-item">
 				<div class="photo"><a href="{{ url('maquinaria/cono-secundario-metso-sobre-orugas') }}"><img src="images/maquinaria-cono-secundario-metso-sobre-orugas-thumb.jpg" alt="maquinaria cono secundario metso sobre orugas thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/cono-secundario-metso-sobre-orugas') }}">Cono secundario metso sobre orugas</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/cono-secundario-metso-sobre-orugas') }}">.</a></p>
+					<p class="title"><a href="{{ url('maquinaria/cono-secundario-metso-sobre-orugas') }}">Cono secundario sobre orugas</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/cono-secundario-metso-sobre-orugas') }}">METSO</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
 				<div class="photo"><a href="{{ url('maquinaria/cono-secundario-semifijo-414') }}"><img src="images/maquinaria-cono-secundario-semifijo-4-1-4-thumb.jpg" alt="maquinaria cono secundario semifijo 4 1 4 thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/cono-secundario-semifijo-414') }}">Cono secundario semifijo 414</a></p>
+					<p class="title"><a href="{{ url('maquinaria/cono-secundario-semifijo-414') }}">Cono secundario semifijo 4 1/4</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/cono-secundario-semifijo-414') }}">.</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/escavadora-hyundai') }}"><img src="images/maquinaria-escavadora-hyundai-thumb.jpg" alt="maquinaria-escavadora-hyundai-thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/excavadora-hyundai') }}"><img src="images/maquinaria-excavadora-hyundai-thumb.jpg" alt="maquinaria-excavadora-hyundai-thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/escavadora-hyundai') }}">Escavadora</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/escavadora-hyundai') }}">Hyundai</a></p>
+					<p class="title"><a href="{{ url('maquinaria/excavadora-hyundai') }}">Excavadora</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/excavadora-hyundai') }}">Hyundai</a></p>
 				</div>
 			</div>
 		</div>
@@ -245,10 +221,10 @@
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/retroescavadora-caser-580m') }}"><img src="images/maquinaria-retroescavadora-caser-580m-thumb.jpg" alt="maquinaria retroescavadora caser 580m thumb"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/retroexcavadora-case-580m') }}"><img src="images/maquinaria-retroexcavadora-case-580m-thumb.jpg" alt="maquinaria retroexcavadora caser 580m thumb"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/retroescavadora-caser-580m') }}">Retroescavadora 580m</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/retroescavadora-caser-580m') }}">Caser</a></p>
+					<p class="title"><a href="{{ url('maquinaria/retroexcavadora-case-580m') }}">Retroexcavadora 580m</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/retroexcavadora-case-580m') }}">Case</a></p>
 				</div>
 			</div>
 		</div>
@@ -297,16 +273,6 @@
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/trituradora-secundaria-quijada-sfk') }}">trituradora secundaria quijada</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/trituradora-secundaria-quijada-sfk') }}">SFK</a></p>
-				</div>
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}"><img src="images/maquinaria-vibrocompactador-ingersold-rand-thumb.jpg" alt="maquinaria vibrocompactador ingersold rand thumbnail"></a></div>
-				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}">vibrocompactador</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}">ingersold rand</a></p>
 				</div>
 			</div>
 		</div>

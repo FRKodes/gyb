@@ -180,9 +180,9 @@ class PagesController extends Controller
         return View('pages.cono_secundario_semifijo_414');
     }
 
-    public function escavadora_hyundai()
+    public function excavadora_hyundai()
     {
-        return View('pages.escavadora_hyundai');
+        return View('pages.excavadora_hyundai');
     }
 
     public function excavadora_cat_320c()
@@ -240,9 +240,9 @@ class PagesController extends Controller
         return View('pages.planta_luz_yanmar');
     }
 
-    public function retroescavadora_caser_580m()
+    public function retroexcavadora_case_580m()
     {
-        return View('pages.retroescavadora_caser_580m');
+        return View('pages.retroexcavadora_case_580m');
     }
 
     public function retroexcabadora_cat_416e()
