@@ -72,26 +72,27 @@
 					<p><strong>Renta de maquinaria</strong></p>
 					<p class="white">Contamos con el inventario más completo en equipo y maquinaria para minería y trituración.</p>
 				</div>
+				
 
-				<div class="col-xs-12 col-sm-4 refa-item">
-					<div class="photo"><a href={{ url('maquinaria/excavadora-210-LC') }}><img src="images/maquinaria-excavadora-210-LC-thumbnail.jpg" alt="excavadora 210 LC thumbnail"></a></div>
-					<div class="description">
-						<p class="title"><a href="{{ url('maquinaria/excavadora-210-LC') }}">Excavadora R210LC-7</a></p>
-						<p class="desc"><a href="{{ url('maquinaria/excavadora-210-LC') }}">KOMATSU</a></p>
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-4 refa-item">
-					<div class="photo"><a href={{ url('maquinaria/excavadora-320-c') }}><img src="images/maquinaria-excavadora-320-c-thumbnail.jpg" alt="maquinaria excavadora 320 c thumbnail"></a></div>
-					<div class="description">
-						<p class="title"><a href="{{ url('maquinaria/excavadora-320-c') }}">Excavadora 320 C</a></p>
-						<p class="desc"><a href="{{ url('maquinaria/excavadora-320-c') }}">CAT</a></p>
-					</div>
-				</div>
 				<div class="col-xs-12 col-sm-4 refa-item">
 					<div class="photo"><a href={{ url('maquinaria/excavadora-320-CL') }}><img src="images/maquinaria-excavadora-320-CL-thumbnail.jpg" alt="maquinaria excavadora 320 CL thumbnail"></a></div>
 					<div class="description">
 						<p class="title"><a href="{{ url('maquinaria/excavadora-320-CL') }}">Excavadora R320LC-7</a></p>
 						<p class="desc"><a href="{{ url('maquinaria/excavadora-320-CL') }}">CAT</a></p>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-4 refa-item">
+					<div class="photo"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}"><img src="images/maquinaria-vibrocompactador-ingersold-rand-thumb.jpg" alt="maquinaria vibrocompactador ingersold rand thumbnail"></a></div>
+					<div class="description">
+						<p class="title"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}">vibrocompactador</a></p>
+						<p class="desc"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}">ingersold rand</a></p>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-4 refa-item">
+					<div class="photo"><a href="{{ url('maquinaria/retroexcavadora-super-m') }}"><img src="images/maquinaria-retroexcavadora-super-m-thumbnail.jpg" alt="maquinaria retroexcavadora super m thumbnail"></a></div>
+					<div class="description">
+						<p class="title"><a href="{{ url('maquinaria/retroexcavadora-super-m') }}">Retroexcavadora super m</a></p>
+						<p class="desc"><a href="{{ url('maquinaria/retroexcavadora-super-m') }}">CASE</a></p>
 					</div>
 				</div>
 			</div>
