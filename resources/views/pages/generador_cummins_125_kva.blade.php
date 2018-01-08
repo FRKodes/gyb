@@ -10,9 +10,12 @@
 				<h2>CUMMINS</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 empresa-text">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>
+				<p>Cuenta con un motor cummins de 4 ciclos y 6 cilindros</p>
+				<p>Una maxima potencia de 125 kva</p>
+				<p>Estructura abierta  y un peso de 1400 kg</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
 			</div>
 		</div>
 	</div>

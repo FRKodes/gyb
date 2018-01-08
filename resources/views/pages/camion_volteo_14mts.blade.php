@@ -10,9 +10,13 @@
 				<h2></h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 empresa-text">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>
+				<p>Cuenta con un motor cummins isx de 6 cilindros</p>
+				<p>Suspension reyco de muelles</p>
+				<p>Mancuerna de 42,000 lbs</p>
+				<p>Caja de 10 vel y caja de 14 m3 calibre 3/16</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
 			</div>
 		</div>
 	</div>

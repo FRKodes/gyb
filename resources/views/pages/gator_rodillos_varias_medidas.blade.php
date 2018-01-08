@@ -10,9 +10,13 @@
 				<h2>GATOR RODILLOS</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 col-md-8 empresa-text">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque ex ratione possimus, error, asperiores, quidem odio aspernatur nobis ducimus quibusdam eveniet cum earum accusamus sunt labore porro nemo nostrum!</p>
+				<p>Se impulsan con un motor diesel Cummins turboalimentado de 71 kW (95 hp)</p>
+				<p>Estos modelos están disponibles con tracción de eje y son adecuados para una amplia variedad de aplicaciones.</p>
+				<p>Para proyectos más exigentes donde se requiera una capacidad de avance en pendiente superior.</p>
+				<p>Tiene un peso puesto en marcha de  10 toneladas y un ancho de 2.13 Mts.</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
 			</div>
 		</div>
 	</div>
