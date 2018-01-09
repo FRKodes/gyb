@@ -24,14 +24,14 @@
 			<div class="col-xs-12 col-sm-4 refa-item">
 				<div class="photo"><a href="{{ url('maquinaria/retroexcavadora-super-m') }}"><img src="images/maquinaria-retroexcavadora-super-m-thumbnail.jpg" alt="maquinaria retroexcavadora super m thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/retroexcavadora-super-m') }}">Retroexcavadora super m</a></p>
+					<p class="title"><a href="{{ url('maquinaria/retroexcavadora-super-m') }}">Retroexcavadora 580 super m</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/retroexcavadora-super-m') }}">CASE</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
 				<div class="photo"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}"><img src="images/maquinaria-vibrocompactador-ingersold-rand-thumb.jpg" alt="maquinaria vibrocompactador ingersold rand thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}">vibrocompactador</a></p>
+					<p class="title"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}">vibrocompactador SD100</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}">ingersold rand</a></p>
 				</div>
 			</div>
@@ -190,10 +190,10 @@
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/motoconformadora-case-485') }}"><img src="images/maquinaria-motoconformadora-case-485-thumb.jpg" alt="maquinaria motoconformadora case 485 thumb"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/motoconformadora-case-845') }}"><img src="images/maquinaria-motoconformadora-case-845-thumb.jpg" alt="maquinaria motoconformadora case 845 thumb"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/motoconformadora-case-485') }}">Motoconformadora 485</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/motoconformadora-case-485') }}">Case</a></p>
+					<p class="title"><a href="{{ url('maquinaria/motoconformadora-case-845') }}">Motoconformadora 845</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/motoconformadora-case-845') }}">Case</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">

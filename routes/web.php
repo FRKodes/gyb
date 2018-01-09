@@ -51,7 +51,7 @@ Route::get('maquinaria/excavadora-komatsu-pc210', 'PagesController@excavadora_ko
 Route::get('maquinaria/excavadora-komatsu-pc350', 'PagesController@excavadora_komatsu_pc350');
 Route::get('maquinaria/generador-cummins-125-kva', 'PagesController@generador_cummins_125_kva');
 Route::get('maquinaria/generador-himmoinsa-245-kva', 'PagesController@generador_himmoinsa_245_kva');
-Route::get('maquinaria/motoconformadora-case-485', 'PagesController@motoconformadora_case_485');
+Route::get('maquinaria/motoconformadora-case-845', 'PagesController@motoconformadora_case_845');
 Route::get('maquinaria/motoconformadora-cat-140H', 'PagesController@motoconformadora_cat_140H');
 Route::get('maquinaria/motoconformadora-champion-730a', 'PagesController@motoconformadora_champion_730a');
 Route::get('maquinaria/planta-luz-yanmar', 'PagesController@planta_luz_yanmar');

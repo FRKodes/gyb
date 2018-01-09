@@ -220,9 +220,9 @@ class PagesController extends Controller
         return View('pages.generador_himmoinsa_245_kva');
     }
 
-    public function motoconformadora_case_485()
+    public function motoconformadora_case_845()
     {
-        return View('pages.motoconformadora_case_485');
+        return View('pages.motoconformadora_case_845');
     }
 
     public function motoconformadora_cat_140H()

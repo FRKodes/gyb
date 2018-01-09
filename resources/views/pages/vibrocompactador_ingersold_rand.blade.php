@@ -6,7 +6,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-5">
-				<h1 class="section-title passion">VIBROCOMPACTADOR</h1>
+				<h1 class="section-title passion">VIBROCOMPACTADOR SD100</h1>
 				<h2>INGERSOLD RAND</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 empresa-text">
