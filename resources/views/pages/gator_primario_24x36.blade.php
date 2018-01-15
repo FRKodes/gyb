@@ -10,9 +10,10 @@
 				<h2>GATOR PRIMARIO 24X36</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 col-md-8 empresa-text">
-				<p>Esta trituradora primaria en este modelo tiene la capacidad de recibir material hasta de 24" y entregar minimo hasta de 3-1/2"</p>
-				<p>Puede entregaar hasta 500 toneladas por hora (varia según el material)</p>
-				<p>Tiene un peso de 38 toneladas.</p>
+				<p><strong>Marca:</strong> GATOR</p>
+				<p><strong>Maquina en la que se puede utilizar:</strong> Primario 24x36</p>
+				<p><strong>Descripcion:</strong> Mobile &amp; fix jaw plate / muela fija y muela móvil</p>
+				<p><strong>Aleacion:</strong> Mn18Cr2</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>

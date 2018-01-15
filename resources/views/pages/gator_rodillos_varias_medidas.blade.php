@@ -10,7 +10,8 @@
 				<h2>GATOR RODILLOS</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 col-md-8 empresa-text">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore dignissimos quisquam vel architecto. Odit, recusandae. Aspernatur illum aperiam eum officiis, maiores ipsam nisi rem iure libero voluptatibus veritatis. Inventore, itaque?</p>
+
+				<p>Rodillos de diferentes medidad de largo y 4-1/2" de diámetro</p>
 				
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>

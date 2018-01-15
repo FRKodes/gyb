@@ -10,9 +10,10 @@
 				<h2>METSO PRIMARIO LT120</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 col-md-8 empresa-text">
-				<p>Esta trituradora primaria en este modelo tiene la capacidad de recibir material hasta de 47" y entregar minimo hasta de 4"</p>
-				<p>Puede entregar hasta 500 toneladas por hora (varia según el material)</p>
-				<p>Tiene un peso de 63 toneladas en el mismo chasis cuenta con un alimentador con capacidad de 7 m3.</p>
+				<p><strong>Marca:</strong> METSO</p>
+				<p><strong>Maquina en la que se puede utilizar:</strong> Primario lt120</p>
+				<p><strong>Descripción:</strong> Mobile &amp; fix jaw plate/muela fija y muela móvil</p>
+				<p><strong>Aleacion:</strong> Mn13cr2</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>
