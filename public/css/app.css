@@ -616,6 +616,21 @@ h2.title {
   background-size: cover;
 }
 
+.inner-banner.maquinaria_cargador_frontal_cat_950g {
+  background: transparent url(/images/maquinaria-cargador-frontal-cat-950g-1920.png) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.maquinaria_tractor_cat_d7h {
+  background: transparent url(/images/maquinaria-tractor-cat-d7h-1920_.png) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.trituradora_metso_lt120 {
+  background: transparent url(/images/maquinaria-trituradora-metso-lt120-1920.png) no-repeat center center;
+  background-size: cover;
+}
+
 h1.section-title {
   color: #40c3f9;
   margin-top: 30px;

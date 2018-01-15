@@ -278,6 +278,31 @@
 		</div>
 
 
+		<div class="row">
+			<div class="col-xs-12 col-sm-4 refa-item">
+				<div class="photo"><a href="{{ url('maquinaria/maquinaria-cargador-frontal-cat-950g') }}"><img src="images/maquinaria-cargador-frontal-cat-950g-thumbnail.png" alt="maquinaria cargador frontal cat 950g thumbnail"></a></div>
+				<div class="description">
+					<p class="title"><a href="{{ url('maquinaria/maquinaria-cargador-frontal-cat-950g') }}">Cargador frontal 950g</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/maquinaria-cargador-frontal-cat-950g') }}">CAT</a></p>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-4 refa-item">
+				<div class="photo"><a href="{{ url('maquinaria/maquinaria-tractor-cat-d7h') }}"><img src="images/maquinaria-tractor-cat-d7h-thumbnail_.png" alt="maquinaria tractor cat d7h thumbnail"></a></div>
+				<div class="description">
+					<p class="title"><a href="{{ url('maquinaria/maquinaria-tractor-cat-d7h') }}">Tractor d7h</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/maquinaria-tractor-cat-d7h') }}">CAT</a></p>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-4 refa-item">
+				<div class="photo"><a href="{{ url('maquinaria/maquinaria-trituradora-metso-lt120') }}"><img src="images/maquinaria-trituradora-metso-lt120-thumbnail.png" alt="maquinaria trituradora metso lt120 thumbnail"></a></div>
+				<div class="description">
+					<p class="title"><a href="{{ url('maquinaria/maquinaria-trituradora-metso-lt120') }}">trituradora lt120</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/maquinaria-trituradora-metso-lt120') }}">metso</a></p>
+				</div>
+			</div>
+		</div>
+
+
 		<div class="row" style="display: none;">
 			<a href="#" class="button-colors centered">Mostrar más</a>
 		</div>

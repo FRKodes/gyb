@@ -280,6 +280,21 @@ class PagesController extends Controller
         return View('pages.vibrocompactador_ingersold_rand');
     }
 
+    public function maquinaria_cargador_frontal_cat_950g()
+    {
+        return View('pages.maquinaria_cargador_frontal_cat_950g');
+    }
+
+    public function maquinaria_tractor_cat_d7h()
+    {
+        return View('pages.maquinaria_tractor_cat_d7h');
+    }
+
+    public function maquinaria_trituradora_metso_lt120()
+    {
+        return View('pages.maquinaria_trituradora_metso_lt120');
+    }
+
     public function sendmail()
     {
 
