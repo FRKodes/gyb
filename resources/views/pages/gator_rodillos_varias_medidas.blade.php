@@ -10,9 +10,7 @@
 				<h2>GATOR RODILLOS</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 col-md-8 empresa-text">
-
-				<p>Rodillos de diferentes medidad de largo y 4-1/2" de diámetro</p>
-				
+				<p>Rodillos de diferentes medidad de largo y 4-1/2" de diámetro</p>	
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>

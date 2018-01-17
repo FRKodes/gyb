@@ -303,6 +303,17 @@
 		</div>
 
 
+		<div class="row">
+			<div class="col-xs-12 col-sm-4 refa-item">
+				<div class="photo"><a href="{{ url('maquinaria/trituradora-impacto-1214-hongXing') }}"><img src="images/maquinaria-trituradora-impacto-1214-hongXing-thumbnail.jpg" alt="trituradora impacto 1214 hongXing thumbnail"></a></div>
+				<div class="description">
+					<p class="title"><a href="{{ url('maquinaria/trituradora-impacto-1214-hongXing') }}">TRITURADORA IMPACTO 1214</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/trituradora-impacto-1214-hongXing') }}">HONGXING</a></p>
+				</div>
+			</div>
+		</div>
+
+
 		<div class="row" style="display: none;">
 			<a href="#" class="button-colors centered">Mostrar más</a>
 		</div>

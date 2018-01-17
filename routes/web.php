@@ -66,6 +66,7 @@ Route::get('maquinaria/vibrocompactador-ingersold-rand', 'PagesController@vibroc
 Route::get('maquinaria/maquinaria-cargador-frontal-cat-950g', 'PagesController@maquinaria_cargador_frontal_cat_950g');
 Route::get('maquinaria/maquinaria-tractor-cat-d7h', 'PagesController@maquinaria_tractor_cat_d7h');
 Route::get('maquinaria/maquinaria-trituradora-metso-lt120', 'PagesController@maquinaria_trituradora_metso_lt120');
+Route::get('maquinaria/trituradora-impacto-1214-hongXing', 'PagesController@trituradora_impacto_1214_hongXing');
 Route::get('empresa', 'PagesController@empresa');
 Route::get('contacto', 'PagesController@contacto');
 Route::post('sendmail', 'PagesController@sendmail');

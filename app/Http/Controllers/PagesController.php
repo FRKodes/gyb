@@ -295,6 +295,11 @@ class PagesController extends Controller
         return View('pages.maquinaria_trituradora_metso_lt120');
     }
 
+    public function trituradora_impacto_1214_hongXing()
+    {
+        return View('pages.trituradora_impacto_1214_hongXing');
+    }
+
     public function sendmail()
     {
 
