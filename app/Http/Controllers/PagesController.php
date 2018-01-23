@@ -300,6 +300,16 @@ class PagesController extends Controller
         return View('pages.trituradora_impacto_1214_hongXing');
     }
 
+    public function trituradora_primaria_24x36_gator()
+    {
+        return View('pages.trituradora_primaria_24x36_gator');
+    }
+
+    public function trituradora_secundaria_cono_3_1_4_sec()
+    {
+        return View('pages.trituradora_secundaria_cono_3_1_4_sec');
+    }
+
     public function sendmail()
     {
 

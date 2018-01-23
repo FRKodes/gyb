@@ -67,6 +67,8 @@ Route::get('maquinaria/maquinaria-cargador-frontal-cat-950g', 'PagesController@m
 Route::get('maquinaria/maquinaria-tractor-cat-d7h', 'PagesController@maquinaria_tractor_cat_d7h');
 Route::get('maquinaria/maquinaria-trituradora-metso-lt120', 'PagesController@maquinaria_trituradora_metso_lt120');
 Route::get('maquinaria/trituradora-impacto-1214-hongXing', 'PagesController@trituradora_impacto_1214_hongXing');
+Route::get('maquinaria/trituradora-primaria-24x36-gator', 'PagesController@trituradora_primaria_24x36_gator');
+Route::get('maquinaria/trituradora-secundaria-cono-3-1-4-sec', 'PagesController@trituradora_secundaria_cono_3_1_4_sec');
 Route::get('empresa', 'PagesController@empresa');
 Route::get('contacto', 'PagesController@contacto');
 Route::post('sendmail', 'PagesController@sendmail');
