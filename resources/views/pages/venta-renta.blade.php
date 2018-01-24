@@ -322,7 +322,7 @@
 			<div class="col-xs-12 col-sm-4 refa-item">
 				<div class="photo"><a href="{{ url('maquinaria/trituradora-secundaria-cono-3-1-4-sec') }}"><img src="images/maquinaria-trituradora-primaria-24x36-gator-thumbnail.jpg" alt="maquinaria trituradora secundaria cono 3 1/4 sec thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/trituradora-secundaria-cono-3-1-4-sec') }}">trituradora secundaria cono 3 1/4 sec</a></p>
+					<p class="title"><a href="{{ url('maquinaria/trituradora-secundaria-cono-3-1-4-sec') }}">trituradora secundaria cono 3 1/4</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/trituradora-secundaria-cono-3-1-4-sec') }}">CEC</a></p>
 				</div>
 			</div>
