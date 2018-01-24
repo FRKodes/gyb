@@ -128,6 +128,10 @@ icons font CSS
   font-weight: 100;
 }
 
+.blue {
+  color: #40c3f9;
+}
+
 .button-colors {
   background: #a6dcf8;
   background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, #a6dcf8), color-stop(53%, #40c3fb));
