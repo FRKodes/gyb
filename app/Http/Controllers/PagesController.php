@@ -105,9 +105,9 @@ class PagesController extends Controller
         return View('pages.excavadora_320_c');
     }
     
-    public function excavadora_320_CL()
+    public function excavadora_320c()
     {
-        return View('pages.excavadora_320_CL');
+        return View('pages.excavadora_320c');
     }
     
     public function excavadora_350_lc()

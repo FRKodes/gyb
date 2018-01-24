@@ -28,7 +28,7 @@ Route::get('refaccion/metso-primario-lt120', 'PagesController@metso_primario_lt1
 Route::get('refaccion/gator-rodillos-varias-medidas', 'PagesController@gator_rodillos_varias_medidas');
 Route::get('maquinaria/excavadora-210-LC', 'PagesController@excavadora_210_LC');
 Route::get('maquinaria/excavadora-320-c', 'PagesController@excavadora_320_c');
-Route::get('maquinaria/excavadora-320-CL', 'PagesController@excavadora_320_CL');
+Route::get('maquinaria/excavadora-320c', 'PagesController@excavadora_320c');
 Route::get('maquinaria/excavadora-350-lc', 'PagesController@excavadora_350_lc');
 Route::get('maquinaria/motoconformadora-140-h', 'PagesController@motoconformadora_140_h');
 Route::get('maquinaria/motoconformadora-845-b', 'PagesController@motoconformadora_845_b');

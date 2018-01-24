@@ -15,10 +15,10 @@
 	<div class="container m-top-40 m-bottom-40 refas-container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href={{ url('maquinaria/excavadora-320-CL') }}><img src="images/maquinaria-excavadora-320-CL-thumbnail.jpg" alt="maquinaria excavadora 320 CL thumbnail"></a></div>
+				<div class="photo"><a href={{ url('maquinaria/excavadora-320c') }}><img src="images/maquinaria-excavadora-320-CL-thumbnail.jpg" alt="maquinaria excavadora 320 CL thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/excavadora-320-CL') }}">Excavadora R320LC-7</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/excavadora-320-CL') }}">CAT</a></p>
+					<p class="title"><a href="{{ url('maquinaria/excavadora-320c') }}">Excavadora 320C</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/excavadora-320c') }}">CAT</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
@@ -312,7 +312,7 @@
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/trituradora-primaria-24x36-gator') }}"><img src="images/maquinaria-trituradora-primaria-24x36-gator-thumbnail.jpg" alt="maquinaria trituradora primaria 24x36 gator thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/trituradora-primaria-24x36-gator') }}"><img src="images/maquinaria__trituradora-primaria-24x36-gator-thumbnail.jpg" alt="maquinaria trituradora primaria 24x36 gator thumbnail"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/trituradora-primaria-24x36-gator') }}">TRITURADORA PRIMARIA 24X36</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/trituradora-primaria-24x36-gator') }}">GATOR</a></p>
@@ -320,7 +320,7 @@
 			</div>
 			
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/trituradora-secundaria-cono-3-1-4-sec') }}"><img src="images/maquinaria-trituradora-secundaria-cono-3-1-4-sec-thumbnail.jpg" alt="maquinaria trituradora secundaria cono 3 1/4 sec thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/trituradora-secundaria-cono-3-1-4-sec') }}"><img src="images/maquinaria-trituradora-primaria-24x36-gator-thumbnail.jpg" alt="maquinaria trituradora secundaria cono 3 1/4 sec thumbnail"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/trituradora-secundaria-cono-3-1-4-sec') }}">trituradora secundaria cono 3 1/4 sec</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/trituradora-secundaria-cono-3-1-4-sec') }}">CEC</a></p>
