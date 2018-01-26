@@ -29,37 +29,13 @@
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}"><img src="images/maquinaria-vibrocompactador-ingersold-rand-thumb.jpg" alt="maquinaria vibrocompactador ingersold rand thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/vibrocompactador-ingersol-rand') }}"><img src="images/maquinaria-vibrocompactador-ingersold-rand-thumb.jpg" alt="maquinaria vibrocompactador ingersold rand thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}">vibrocompactador SD100</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}">ingersold rand</a></p>
+					<p class="title"><a href="{{ url('maquinaria/vibrocompactador-ingersol-rand') }}">vibrocompactador SD100</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/vibrocompactador-ingersol-rand') }}">ingersol rand</a></p>
 				</div>
 			</div>
 		</div>
-
-		{{-- <div class="row">
-			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/excavadora-350-lc') }}"><img src="images/maquinaria-excavadora-350-lc-thumbnail.jpg" alt="maquinaria excavadora 350 lc thumbnail"></a></div>
-				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/excavadora-350-lc') }}">Excavadora-350-lc</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/excavadora-350-lc') }}">KOMATSU</a></p>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/motoconformadora-140-h') }}"><img src="images/maquinaria-motoconformadora-140-h-thumbnail.jpg" alt="maquinaria motoconformadora 140 h thumbnail"></a></div>
-				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/motoconformadora-140-h') }}">Motoconformadora 140 h</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/motoconformadora-140-h') }}">CAT</a></p>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/motoconformadora-845-b') }}"><img src="images/maquinaria-motoconformadora-845-b-thumbnail.jpg" alt="maquinaria motoconformadora 845 b thumbnail"></a></div>
-				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/motoconformadora-845-b') }}">Motoconformadora 845 b</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/motoconformadora-845-b') }}">CASE</a></p>
-				</div>
-			</div>
-		</div> --}}
 
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
@@ -120,7 +96,7 @@
 			<div class="col-xs-12 col-sm-4 refa-item">
 				<div class="photo"><a href="{{ url('maquinaria/cono-secundario-semifijo-414') }}"><img src="images/maquinaria-cono-secundario-semifijo-4-1-4-thumb.jpg" alt="maquinaria cono secundario semifijo 4 1 4 thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/cono-secundario-semifijo-414') }}">Cono secundario semifijo 4 1/4</a></p>
+					<p class="title"><a href="{{ url('maquinaria/cono-secundario-semifijo-414') }}">Cono secundario semifijo 4 1/4'</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/cono-secundario-semifijo-414') }}">.</a></p>
 				</div>
 			</div>
@@ -151,7 +127,7 @@
 			<div class="col-xs-12 col-sm-4 refa-item">
 				<div class="photo"><a href="{{ url('maquinaria/excavadora-dossan-340') }}"><img src="images/maquinaria-excavadora-dossan-340-thumb.jpg" alt="maquinaria excavadora dossan 340 thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/excavadora-dossan-340') }}">Excavadora 340</a></p>
+					<p class="title"><a href="{{ url('maquinaria/excavadora-dossan-340') }}">Excavadora 340LX</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/excavadora-dossan-340') }}">Doosan</a></p>
 				</div>
 			</div>
@@ -183,10 +159,10 @@
 
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/generador-himmoinsa-245-kva') }}"><img src="images/maquinaria-generador-himmoinsa-245-kva-thumb.jpg" alt="maquinaria generador himmoinsa 245 kva thumb"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/generador-himoinsa-245-kva') }}"><img src="images/maquinaria-generador-himmoinsa-245-kva-thumb.jpg" alt="maquinaria generador himoinsa 245 kva thumb"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/generador-himmoinsa-245-kva') }}">Generador 245 kva</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/generador-himmoinsa-245-kva') }}">Himmoinsa</a></p>
+					<p class="title"><a href="{{ url('maquinaria/generador-himoinsa-245-kva') }}">Generador 245 kva</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/generador-himoinsa-245-kva') }}">Himoinsa</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
@@ -296,7 +272,7 @@
 			<div class="col-xs-12 col-sm-4 refa-item">
 				<div class="photo"><a href="{{ url('maquinaria/maquinaria-trituradora-metso-lt120') }}"><img src="images/maquinaria-trituradora-metso-lt120-thumbnail.png" alt="maquinaria trituradora metso lt120 thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/maquinaria-trituradora-metso-lt120') }}">trituradora lt120</a></p>
+					<p class="title"><a href="{{ url('maquinaria/maquinaria-trituradora-metso-lt120') }}">trituradora primaria sobre orugas lt120</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/maquinaria-trituradora-metso-lt120') }}">metso</a></p>
 				</div>
 			</div>
@@ -322,7 +298,7 @@
 			<div class="col-xs-12 col-sm-4 refa-item">
 				<div class="photo"><a href="{{ url('maquinaria/trituradora-secundaria-cono-3-1-4-sec') }}"><img src="images/maquinaria-trituradora-primaria-24x36-gator-thumbnail.jpg" alt="maquinaria trituradora secundaria cono 3 1/4 sec thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('maquinaria/trituradora-secundaria-cono-3-1-4-sec') }}">trituradora secundaria cono 3 1/4</a></p>
+					<p class="title"><a href="{{ url('maquinaria/trituradora-secundaria-cono-3-1-4-sec') }}">trituradora secundaria cono 3 1/4'</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/trituradora-secundaria-cono-3-1-4-sec') }}">CEC</a></p>
 				</div>
 			</div>

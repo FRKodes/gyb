@@ -6,7 +6,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-5">
-				<h1 class="section-title passion">CONO SECUNDARIO SEMIFIJO 414</h1>
+				<h1 class="section-title passion">CONO SECUNDARIO SEMIFIJO 4 1/4'</h1>
 				<h2>.</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 empresa-text">

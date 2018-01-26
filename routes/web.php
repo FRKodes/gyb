@@ -50,7 +50,7 @@ Route::get('maquinaria/excavadora-dossan-340', 'PagesController@excavadora_dossa
 Route::get('maquinaria/excavadora-komatsu-pc210', 'PagesController@excavadora_komatsu_pc210');
 Route::get('maquinaria/excavadora-komatsu-pc350', 'PagesController@excavadora_komatsu_pc350');
 Route::get('maquinaria/generador-cummins-125-kva', 'PagesController@generador_cummins_125_kva');
-Route::get('maquinaria/generador-himmoinsa-245-kva', 'PagesController@generador_himmoinsa_245_kva');
+Route::get('maquinaria/generador-himoinsa-245-kva', 'PagesController@generador_himmoinsa_245_kva');
 Route::get('maquinaria/motoconformadora-case-845', 'PagesController@motoconformadora_case_845');
 Route::get('maquinaria/motoconformadora-cat-140H', 'PagesController@motoconformadora_cat_140H');
 Route::get('maquinaria/motoconformadora-champion-730a', 'PagesController@motoconformadora_champion_730a');
@@ -62,7 +62,7 @@ Route::get('maquinaria/tractor-sobre-orugas-komatsu-d155ax', 'PagesController@tr
 Route::get('maquinaria/triturador-primario-gator-30x42', 'PagesController@triturador_primario_gator_30x42');
 Route::get('maquinaria/trituradora-impacto-secundaria-gator', 'PagesController@trituradora_impacto_secundaria_gator');
 Route::get('maquinaria/trituradora-secundaria-quijada-sfk', 'PagesController@trituradora_secundaria_quijada_sfk');
-Route::get('maquinaria/vibrocompactador-ingersold-rand', 'PagesController@vibrocompactador_ingersold_rand');
+Route::get('maquinaria/vibrocompactador-ingersol-rand', 'PagesController@vibrocompactador_ingersold_rand');
 Route::get('maquinaria/maquinaria-cargador-frontal-cat-950g', 'PagesController@maquinaria_cargador_frontal_cat_950g');
 Route::get('maquinaria/maquinaria-tractor-cat-d7h', 'PagesController@maquinaria_tractor_cat_d7h');
 Route::get('maquinaria/maquinaria-trituradora-metso-lt120', 'PagesController@maquinaria_trituradora_metso_lt120');

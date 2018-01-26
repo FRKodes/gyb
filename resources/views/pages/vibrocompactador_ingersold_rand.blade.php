@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-xs-12 col-sm-5">
 				<h1 class="section-title passion">VIBROCOMPACTADOR SD100</h1>
-				<h2>INGERSOLD RAND</h2>
+				<h2>INGERSOL RAND</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 empresa-text">
 				<p>Se impulsan con un motor diesel Cummins turboalimentado de 71 kW (95 hp)</p>
