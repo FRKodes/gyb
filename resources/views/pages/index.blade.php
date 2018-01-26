@@ -22,21 +22,21 @@
 				<div class="photo"><a href="{{ url('refaccion/gator-primario-24x36') }}"><img src="images/refaccion-gator-primary-24x36-thumbnail.jpg" alt="refacción gator primary thumbnail"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('refaccion/gator-primario-24x36') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
-					<p class="desc"><a href="{{ url('refaccion/gator-primario-24x36') }}">GATOR PRIMARIO 24X36</a></p>
+					<p class="desc"><a href="{{ url('refaccion/gator-primario-24x36') }}">PRIMARIO GATOR 24X36</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
 				<div class="photo"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}"><img src="images/refaccion-metso-HP200-cone-thumbnail.jpg" alt="refacción metso HP200 cone thumbnail"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}">MANTLE Y BOWL LINER</a></p>
-					<p class="desc"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}">METSO CONO HP200</a></p>
+					<p class="desc"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}">CONO METSO HP200</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
 				<div class="photo"><a href="{{ url('refaccion/sandvik-primario-1208') }}"><img src="images/refaccion-sandvick-primary-thumbnail.jpg" alt="refaccion sandvick primary thumbnail"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('refaccion/sandvik-primario-1208') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
-					<p class="desc"><a href="{{ url('refaccion/sandvik-primario-1208') }}">SANDVIK PRIMARIO 1208</a></p>
+					<p class="desc"><a href="{{ url('refaccion/sandvik-primario-1208') }}">PRIMARIO SANDVIK 1208</a></p>
 				</div>
 			</div>
 		</div>
@@ -75,17 +75,17 @@
 				
 
 				<div class="col-xs-12 col-sm-4 refa-item">
-					<div class="photo"><a href={{ url('maquinaria/excavadora-320-CL') }}><img src="images/maquinaria-excavadora-320-CL-thumbnail.jpg" alt="maquinaria excavadora 320 CL thumbnail"></a></div>
+					<div class="photo"><a href={{ url('maquinaria/excavadora-320c') }}><img src="images/maquinaria-excavadora-320-CL-thumbnail.jpg" alt="maquinaria excavadora 320 CL thumbnail"></a></div>
 					<div class="description">
-						<p class="title"><a href="{{ url('maquinaria/excavadora-320-CL') }}">Excavadora R320LC-7</a></p>
-						<p class="desc"><a href="{{ url('maquinaria/excavadora-320-CL') }}">CAT</a></p>
+						<p class="title"><a href="{{ url('maquinaria/excavadora-320c') }}">Excavadora R320C</a></p>
+						<p class="desc"><a href="{{ url('maquinaria/excavadora-320c') }}">CAT</a></p>
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-4 refa-item">
-					<div class="photo"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}"><img src="images/maquinaria-vibrocompactador-ingersold-rand-thumb.jpg" alt="maquinaria vibrocompactador ingersold rand thumbnail"></a></div>
+					<div class="photo"><a href="{{ url('maquinaria/vibrocompactador-ingersol-rand') }}"><img src="images/maquinaria-vibrocompactador-ingersold-rand-thumb.jpg" alt="maquinaria vibrocompactador ingersold rand thumbnail"></a></div>
 					<div class="description">
-						<p class="title"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}">vibrocompactador</a></p>
-						<p class="desc"><a href="{{ url('maquinaria/vibrocompactador-ingersold-rand') }}">ingersold rand</a></p>
+						<p class="title"><a href="{{ url('maquinaria/vibrocompactador-ingersol-rand') }}">vibrocompactador</a></p>
+						<p class="desc"><a href="{{ url('maquinaria/vibrocompactador-ingersol-rand') }}">ingersol rand</a></p>
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-4 refa-item">
