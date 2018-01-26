@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-xs-12 col-sm-5 col-md-4">
 				<h1 class="section-title passion">MARTILLO / LISTÓN / BLOW BAR</h1>
-				<h2>GATOR IMPACTO 1315</h2>
+				<h2>IMPACTO GATOR 1315</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 col-md-8 empresa-text">
 				<p><strong>Marca:</strong> GATOR</p>

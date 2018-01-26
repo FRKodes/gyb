@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-xs-12 col-sm-5 col-md-4">
 				<h1 class="section-title passion">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</h1>
-				<h2>SANDVIK PRIMARIO 1208</h2>
+				<h2>PRIMARIO SANDVIK 1208</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 col-md-8 empresa-text">
 				<p><strong>Marca:</strong> Sandvik</p>

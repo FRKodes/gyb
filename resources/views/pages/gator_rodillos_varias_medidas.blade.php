@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-xs-12 col-sm-5 col-md-4">
 				<h1 class="section-title passion">RODILLOS DE DIFERENTES MEDIDAS DE LARGO Y 4-1/2" DE DIAMETRO</h1>
-				<h2>GATOR RODILLOS</h2>
+				<h2>&nbsp;</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 col-md-8 empresa-text">
 				<p>Rodillos de diferentes medidad de largo y 4-1/2" de diámetro</p>	

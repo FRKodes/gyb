@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-xs-12 col-sm-5 col-md-4">
 				<h1 class="section-title passion">MARTILLO /LISTON / BLOW BAR</h1>
-				<h2>METSO IMPACTO LT1213</h2>
+				<h2>IMPACTO METSO LT1213</h2>
 			</div>
 			<div class="col-xs-12 col-sm-7 col-md-8 empresa-text">
 				<p><strong>Marca:</strong> METSO</p>
