@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Martillo / Listón / Blow bar. Impacto METSO LT1213')
+@section('description', 'Marca: METSO, Maquina en la que se puede utilizar: Impacto lt1213, Descripción: Martillo / listón / blow bar, Aleacion: Cr26')
+@section('keywords', ', Impacto METSO LT1213')
+
 @section('content')
 	<div class="inner-banner metso_impacto_lt1213"></div>
 

@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Vibrocompactador SD100 Ingersol Rand Renta / Venta')
+@section('description', 'Vibrocompactador SD100 Ingersol Rand - Se impulsan con un motor diesel Cummins turboalimentado de 71 kW (95 hp), estos modelos están disponibles con tracción de eje y son adecuados para una amplia variedad de aplicaciones, para proyectos más exigentes donde se requiera una capacidad de avance en pendiente superior, tiene un peso puesto en marcha de  10 toneladas y un ancho de 2.13 Mts.,')
+@section('keywords', ', Vibrocompactador SD100, Ingersol Rand, motor diesel Cummins turboalimentado')
+
 @section('content')
 	<div class="inner-banner vibrocompactador_ingersold_rand"></div>
 

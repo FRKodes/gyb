@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Excavadora PC210 KOMATSU Renta / Venta')
+@section('description', 'Cuenta con un motor komatsu saa6d107e-1 de 6 cilindros, potencia de 156hp, tiene un peso de 23 toneladas, cuenta con un bote frontal con capacidad de 1.68 m3, puede excavar hasta 5.38 m')
+@section('keywords', ', Excavadora PC210')
+
 @section('content')
 	<div class="inner-banner excavadora_komatsu_pc210"></div>
 

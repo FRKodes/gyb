@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Venta de refacciones para maquinaria pesada. Contamos con el inventario más completo de refacciones en equipo de maquinaria y trituración.')
+@section('description', 'Contamos con el inventario más completo de refacciones en equipo de maquinaria y trituración.')
+@section('keywords', ', ')
+
 @section('content')
 	<div class="inner-banner refacciones"></div>
 

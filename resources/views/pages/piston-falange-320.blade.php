@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Pistón falange 320 SR Renta / Venta')
+@section('description', '')
+@section('keywords', ', ')
+
 @section('content')
 	<div class="inner-banner piston"></div>
 

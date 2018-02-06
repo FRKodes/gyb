@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Venta y renta de maquinaria. Contamos con el inventario más completo en equipo de maquinaria y trituración. Excavadora 320C, Retroexcavadora 580 super m, Vibrocompactador SD100, Camión articulado cat 740, Tractor sobre orugas d155ax.')
+@section('description', 'Venta y renta de maquinaria. Contamos con el inventario más completo en equipo de maquinaria y trituración. ')
+@section('keywords', ', Excavadora 320C, Retroexcavadora 580 super m, Vibrocompactador SD100, Camión articulado cat 740, Tractor sobre orugas d155ax')
+
 @section('content')
 	<div class="inner-banner venta-renta"></div>
 

@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Tractor sobre orugas DR8 CAT Renta / Venta')
+@section('description', 'Cuenta con un motor CAT 3405 de 6 cilindros, potencia de 244 KW, tiene un peso de 33 toneladas, cuenta concuchilla de 3.93 m, capacidad de 8.7 m3')
+@section('keywords', ', Tractor sobre orugas DR8 CAT')
+
 @section('content')
 	<div class="inner-banner tractor_sobre_orugas_cat_dr8"></div>
 

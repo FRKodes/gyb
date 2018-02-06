@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Cargador frontal 950G CAT Renta / Venta')
+@section('description', 'Cuenta con un motor cat c7 de 6 cilindros y una potencia de 202 HP, tiene un peso de 18 toneladas, cuenta con un bote frontal con capacidad de 2.9 m3')
+@section('keywords', ', Cargador frontal 950G')
+
 @section('content')
 	<div class="inner-banner maquinaria_cargador_frontal_cat_950g"></div>
 

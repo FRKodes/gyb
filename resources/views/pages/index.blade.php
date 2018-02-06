@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', ' Renta y venta de maquinaria pesada. Venta de refacciones para maquinaria pesada.')
+@section('description', 'Renta y venta de maquinaria pesada. Venta de refacciones para maquinaria pesada. Inventario listo para entrega. Contamos con el inventario más completo de refacciones en equipo de maquinaria y trituración.')
+@section('keywords', ', refacciones maquinaria')
+
 @section('content')
 	<div class="container-fluid">
 		<div class="row">

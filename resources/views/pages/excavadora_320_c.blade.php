@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Excavadora 320C CAT Renta / Venta')
+@section('description', 'Cuenta con un motor cat accert 6.4  de 6 cilindros, potencia de 138 HP, tiene un peso de 20 toneladas, cuenta con un bote frontal con capacidad de .8 M3, puede excavar hasta 6.77 M')
+@section('keywords', ', Excavadora 320C')
+
 @section('content')
 	<div class="inner-banner excavadora_320_c"></div>
 

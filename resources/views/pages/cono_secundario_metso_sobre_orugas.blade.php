@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Cono secundario sobre orugas HP 300 METSO Renta / Venta')
+@section('description', 'Esta trituradora secundaria en este modelo tiene la capacidad de recibir material hasta de 9" y entregar minimo hasta de 1", puede entregaar hasta 550 toneladas por hora (varia según el material), tiene un peso de 43 toneladas en el mismo chasis cuenta con un alimentador con capacidad de 7m3')
+@section('keywords', ', Cono secundario, orugas, HP 300')
+
 @section('content')
 	<div class="inner-banner cono_secundario_metso_sobre_orugas"></div>
 

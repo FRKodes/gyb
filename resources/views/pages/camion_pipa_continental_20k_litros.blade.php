@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Camión pipa 20k litros Continental Renta / Venta')
+@section('description', 'Cuenta con un motor cummins isx de 6 cilindros, suspension reyco de muelles, mancuerna de 46,000 lbs, caja de 10 vel y tanque para trasnportar hasta 20 mil litros de agua')
+@section('keywords', ', Camión pipa')
+
 @section('content')
 	<div class="inner-banner camion_pipa_continental_20k_litros"></div>
 

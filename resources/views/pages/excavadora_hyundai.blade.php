@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Excavadora 210 LC7 HYUNDAI Renta / Venta')
+@section('description', 'Cuenta con un motor cummins b5.9 de 6 cilindros, potencia de 111.9 kw, tiene un peso de 25 toneladas, cuenta con un bote frontal con capacidad de .52 m3, puede excavar hasta 12.55m')
+@section('keywords', ', Excavadora 210 LC7')
+
 @section('content')
 	<div class="inner-banner excavadora_hyundai"></div>
 

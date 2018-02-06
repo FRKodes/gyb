@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Mobile &amp; fix jaw plate/muela fija y muela móvil, Primario GATOR 24X36 Renta / Venta')
+@section('description', 'Marca: GATOR, maquina en la que se puede utilizar: Primario 24x36, descripcion: Mobile &amp; fix jaw plate / muela fija y muela móvil, aleacion: Mn18Cr2')
+@section('keywords', ', Primario GATOR 24X36')
+
 @section('content')
 	<div class="inner-banner gator_primario_24x36"></div>
 

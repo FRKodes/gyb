@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Cargador frontal 721E CASE Renta / Venta')
+@section('description', 'Cuenta con un motor Cummins tier 4 de 6 cilindros, potencia de 179 HP, tiene un peso de 14 toneladas, cuenta con un bote frontal con capacidad de 3.05 m3')
+@section('keywords', ', Cargador frontal 721E')
+
 @section('content')
 	<div class="inner-banner cargador_frontal_case_721e"></div>
 

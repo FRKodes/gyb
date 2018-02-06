@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Cargador frontal 966 CAT Renta / Venta')
+@section('description', 'Cuenta con un motor CAT 3306 de 6 cilindros, potencia de 164 KW, tiene un peso de 20 toneladas, cuenta con un bote frontal con capacidad de 3.6 m3')
+@section('keywords', ', Cargador frontal 966')
+
 @section('content')
 	<div class="inner-banner cargador_frontal_cat_966"></div>
 

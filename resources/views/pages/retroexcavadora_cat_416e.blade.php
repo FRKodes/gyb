@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Retroexcavadora 416E CAT Renta / Venta')
+@section('description', 'Cuenta con un motor 3054  de 4 cilindros, potencia de 89 hp, tiene un peso de 7 toneladas, cuenta con un bote frontal con capacidad de .76 m3, el brazo trasero puede excavar hasta 4.36 m, tiene capacidad de .15 m3')
+@section('keywords', ', Retroexcavadora 416E')
+
 @section('content')
 	<div class="inner-banner retroexcavadora_cat_416e"></div>
 

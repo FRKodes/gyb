@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Martillo /liston / blow bar, Impacto GATOR 1013')
+@section('description', 'Marca: GATOR, Maquina en la que se puede utilizar: Impacto 1013, Descripcion: Martillo /liston / blow bar, Aleacion: Cr26')
+@section('keywords', ', Impacto GATOR 1013')
+
 @section('content')
 	<div class="inner-banner gator_impacto_1013"></div>
 

@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Planta luz YANMAR Renta / Venta')
+@section('description', 'Cuenta con un motor perkins, un acumulador de 12 v, 4 focos de 1000 watts capaces de generar 440,000 lumenes, altura de 9.28')
+@section('keywords', ', Planta luz YANMAR')
+
 @section('content')
 	<div class="inner-banner planta_luz_yanmar"></div>
 

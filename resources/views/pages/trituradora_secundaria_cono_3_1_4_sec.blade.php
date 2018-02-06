@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Trituradora secundaria cono 3 1/4\' CEC Renta / Venta')
+@section('description', 'Esta trituradora secundaria en este modelo tiene la capacidad de recibir material hasta de 11-1/2" y entregar minimo hasta de 1", puede entregaar hasta 550 toneladas por hora (varia según el material), tiene un peso de 28 toneladas en el mismo chasis cuenta con una criba inclinada marca cec de 3 camas, medida 6x16 (medidas en pies) la cual tiene la cpacidad de entregarte hasta 3 productos diferentes según tus necesidades')
+@section('keywords', ', Trituradora secundaria cono 3 1/4')
+
 @section('content')
 	<div class="inner-banner trituradora_secundaria_cono_3_1_4_sec"></div>
 
@@ -12,7 +16,7 @@
 			<div class="col-xs-12 col-sm-7 empresa-text">
 				<p>Esta trituradora secundaria en este modelo tiene la capacidad de recibir material hasta de 11-1/2" y entregar minimo hasta de 1"</p>
 				<p>Puede entregaar hasta 550 toneladas por hora (varia según el material)</p>
-				<p>Tiene un peso de 28 toneladas en el mismo chasis cuenta con una criba  inclinada marca cec de 3 camas, medida 6x16 (medidas en pies) la cual tiene la cpacidad de entregarte hasta 3 productos diferentes según tus necesidades</p>
+				<p>Tiene un peso de 28 toneladas en el mismo chasis cuenta con una criba inclinada marca cec de 3 camas, medida 6x16 (medidas en pies) la cual tiene la cpacidad de entregarte hasta 3 productos diferentes según tus necesidades</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>

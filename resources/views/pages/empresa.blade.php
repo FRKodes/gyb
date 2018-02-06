@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Somos una empresa mexicana con mas de 18 años de experiencia en el ramo de la construcción, minería y venta de refacciones para equipos de trituración')
+@section('description', 'Somos una empresa mexicana con mas de 18 años de experiencia en el ramo de la construcción, minería y venta de refacciones para equipos de trituración. Siendo uno de las constructoras mas grandes del estado de Jalisco, Urbanizaciones Gyb se abrió brecha primero en el campo de la trituración de agregados pétreos y posteriormente en la explotación de minas, por lo cual hemos crecido en infraestructura, equipo y experiencia logrando ser una referencia en el ramo a nivel occidente y creciendo a otros lugares de la república.')
+@section('keywords', ', Experiencia, Compromiso, Calidad, Servicio, Innovación, Competitividad, Responsabilidad')
+
 @section('content')
 	<div class="inner-banner empresa"></div>
 

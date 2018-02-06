@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Motoconformadora 845 b CASE Renta / Venta')
+@section('description', 'Cuenta con un motor tier 3 de 6 cilindros, potencia de 173 hp, tiene un peso de 15 toneladas, cuenta con una cuchilla de 12 pies.')
+@section('keywords', ', Motoconformadora 845 b')
+
 @section('content')
 	<div class="inner-banner motoconformadora_845_b"></div>
 

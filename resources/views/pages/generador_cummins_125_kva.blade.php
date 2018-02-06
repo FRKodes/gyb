@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Generador 125 KVA Renta / Venta')
+@section('description', 'Cuenta con un motor cummins de 4 ciclos y 6 cilindros, una maxima potencia de 125 kva, estructura abierta  y un peso de 1400 kg')
+@section('keywords', ', Generador 125 KVA')
+
 @section('content')
 	<div class="inner-banner generador_cummins_125_kva"></div>
 

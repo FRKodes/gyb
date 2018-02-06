@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Trituradora secundaria de quijada 10 x 47 SKF Renta / Venta')
+@section('description', 'Esta trituradora secundaria en este modelo tiene la capacidad de recibir material hasta de 5" y entregar minimo hasta de 2", puede entregar hasta 120 toneladas por hora (varia según el material), tiene un peso de 13 toneladas.')
+@section('keywords', ', Trituradora secundaria de quijada, SFK')
+
 @section('content')
 	<div class="inner-banner trituradora_secundaria_quijada_sfk"></div>
 

@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Motoconformadora 140h CAT Renta / Venta')
+@section('description', 'Cuenta con un motor cat 3306 de 6 cilindros, potencia de 123 KW, tiene un peso de 14 toneladas, cuenta con una cuchilla de 3.7 Mts.')
+@section('keywords', ', Motoconformadora 140h')
+
 @section('content')
 	<div class="inner-banner motoconformadora_140_h"></div>
 

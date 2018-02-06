@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Mantle y bowl liner, cono METSO HP200')
+@section('description', 'Marca: Metso, Maquina en la que se puede utilizar: Cono HP200, Descripcion: Mantle y bowl liner, Aleacion: Mn18cr26')
+@section('keywords', ', cono METSO HP200')
+
 @section('content')
 	<div class="inner-banner mantle_bowl_liner_hp200"></div>
 

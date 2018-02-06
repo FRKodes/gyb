@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Ponte en contacto con nosotros')
+@section('description', 'Para nosotros, el contacto con nuestros clientes es muy importante, por lo tanto dejamos a continuación este formulario de contacto si necesitas comunicarte con nosotros.')
+@section('keywords', ', contacto maquinaria')
+
 @section('content')
 	<div class="inner-banner contacto"></div>
 

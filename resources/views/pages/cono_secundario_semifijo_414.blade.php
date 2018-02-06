@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Cono secundario semifijo 4 1/4\' Renta / Venta')
+@section('description', 'Esta trituradora secundaria tiene la capacidad de rcibir material de maximo hasta 4" y entregar material terminado de 10 mm y puede entregar hasta 160 toneladas según el tipo de material y medida que se requiera, cuenta con un motor electrico de 200 kw y tiene un peso de 23 tons.')
+@section('keywords', ', Cono secundario, semifijo 4 1/4')
+
 @section('content')
 	<div class="inner-banner cono_secundario_semifijo_414"></div>
 

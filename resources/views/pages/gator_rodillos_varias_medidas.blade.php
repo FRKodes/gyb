@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Rodillos de diferentes medidas de largo y 4 1/2" de diametro')
+@section('description', 'Rodillos de diferentes medidad de largo y 4 1/2" de diámetro')
+@section('keywords', ', Rodillos')
+
 @section('content')
 	<div class="inner-banner gator_rodillos_varias_medidas"></div>
 

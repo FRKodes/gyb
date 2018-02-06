@@ -1,5 +1,11 @@
 @extends('app')
 
+@section('titlePage', 'Triturador primario 30X42 Gator Renta / Venta')
+@section('description', 'Trituradora primaria con capacidad de recibir material hasta de 30" y entregar minimo hasta de 4", puede entregar hasta 620 toneladas por hora (varia según el material), tiene un peso de 40 toneladas en el mismo chasis cuenta con un alimentador con capacidad de 7 m3.')
+@section('keywords', ', Triturador primario 30X42 Gator')
+
+
+
 @section('content')
 	<div class="inner-banner triturador_primario_gator_30x42"></div>
 

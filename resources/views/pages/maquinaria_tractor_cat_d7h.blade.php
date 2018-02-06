@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Tractor D7H CAT Renta / Venta')
+@section('description', 'Cuenta con un motor CAT c9 de 6 cilindros y una potencia de 240 HP, tiene un peso de 25 toneladas, cuenta concuchilla de 3.69 m y capacidad de 6.86 M3')
+@section('keywords', ', Tractor D7H')
+
 @section('content')
 	<div class="inner-banner maquinaria_tractor_cat_d7h"></div>
 

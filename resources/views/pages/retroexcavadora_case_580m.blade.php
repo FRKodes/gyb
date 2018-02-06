@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Retroexcavadora 580 M CASE Renta / Venta')
+@section('description', 'Cuenta con un motor tier 3  de 4 cilindros, potencia de 79 hp, tiene un peso de 6 toneladas, cuenta con un bote frontal con capacidad de .63 m3, el brazo trasero puede excavar hasta 4.34 m, capacidad de .15 m3.')
+@section('keywords', ', Retroexcavadora 580 M')
+
 @section('content')
 	<div class="inner-banner retroexcavadora_case_580m"></div>
 

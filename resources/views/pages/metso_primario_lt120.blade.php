@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Mobile &amp; fix jaw plate/muela fija y muela móvil Primario METSO LT120')
+@section('description', 'Marca: METSO, Maquina en la que se puede utilizar: Primario lt120, Descripción: Mobile &amp; fix jaw plate/muela fija y muela móvil, Aleacion: Mn13cr2')
+@section('keywords', ', Primario METSO LT120')
+
 @section('content')
 	<div class="inner-banner metso_primario_lt120"></div>
 

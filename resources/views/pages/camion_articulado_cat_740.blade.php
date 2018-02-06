@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'CAMIÓN ARTICULADO 740 Renta / Venta')
+@section('description', 'CAMIÓN ARTICULADO 740. Cuenta con un motor CAT c15 de 6 cilindros, potencia de 453 KW, tiene un peso de 43 toneladas, tiene capacidad para transportar 24 m3.')
+@section('keywords', ', CAMIÓN ARTICULADO 740, motor CAT c15')
+
 @section('content')
 	<div class="inner-banner camion_articulado_cat_740"></div>
 

@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Excavadora 350 lc KOMATSU Renta / Venta')
+@section('description', 'Cuenta con un motor komatsu saa6d114e-3 de 6 cilindros, potencia de 260 HP, tiene un peso de 36 toneladas, cuenta con un bote frontal con capacidad de 2.66 M3, puede excavar hasta 6.7 M')
+@section('keywords', ', Excavadora 350 lc')
+
 @section('content')
 	<div class="inner-banner excavadora_350_lc"></div>
 

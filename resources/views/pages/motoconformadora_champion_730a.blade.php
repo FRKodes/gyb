@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Motoconformadora 730A CHAMPION Renta / Venta')
+@section('description', 'Cuenta con un motor CAT 3306 de 6 cilindros, potencia de 93.2 KW, tiene un peso de 12 toneladas, cuenta con una cuchilla de 8.5 pies.')
+@section('keywords', ', Motoconformadora 730A')
+
 @section('content')
 	<div class="inner-banner motoconformadora_champion_730a"></div>
 

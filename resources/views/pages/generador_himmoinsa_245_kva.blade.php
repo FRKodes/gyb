@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Generador 245 KVA HIMOINSA Renta / Venta')
+@section('description', 'Cuenta con un mmotor iveco a diesel de 4 tiempos y 6 cilindros refrigerado por agua, capaz de generar hasta 291 kva, tiene un peso de 3500 kg')
+@section('keywords', ', Generador 245 KVA')
+
 @section('content')
 	<div class="inner-banner generador_himmoinsa_245_kva"></div>
 

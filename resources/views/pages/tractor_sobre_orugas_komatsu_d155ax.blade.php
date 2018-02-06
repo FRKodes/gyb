@@ -1,5 +1,9 @@
 @extends('app')
 
+@section('titlePage', 'Tractor sobre orugas D155AX KOMATSU Renta / Venta')
+@section('description', 'Cuenta con un motor komatsu saa6d140e-5 de 6 cilindros, potencia de 359 hp, tiene un peso de 39 toneladas, cuenta concuchilla de 4.22 m, capacidad de 9.4 m3')
+@section('keywords', ', Tractor sobre orugas D155AX KOMATSU')
+
 @section('content')
 	<div class="inner-banner tractor_sobre_orugas_komatsu_d155ax"></div>
 
