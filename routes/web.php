@@ -73,3 +73,9 @@ Route::get('empresa', 'PagesController@empresa');
 Route::get('contacto', 'PagesController@contacto');
 Route::post('sendmail', 'PagesController@sendmail');
 
+Route::get('/clear-cache', function() {
+    $exitCode = Artisan::call('cache:clear');
+    $exitCode_ = Artisan::call('config:clear');
+    return 'ok';
+});
+

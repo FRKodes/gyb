@@ -52,7 +52,7 @@
 					<p class="light">
 						Tel: <a href="tel:36010665">(33) 3601-0665</a>, <a href="tel:36010662">(33) 3601-0662</a> <br>
 						Cel: <a href="tel:3332015517">333-201-55-17</a> <br>
-						<a href="mailto:info@gyb.com.mx">info@gyb.com.mx</a> <br>
+						<a href="mailto:info@gyb.mx">info@gyb.mx</a> <br>
 						San Ignacio #210 Colonia López Cotilla <br>
 						Tlaquepaque, Jal. MX C.P. 45615 <br>
 					</p>
