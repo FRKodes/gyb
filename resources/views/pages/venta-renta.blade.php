@@ -12,7 +12,8 @@
 			<h1 class="col-xs-12 section-title passion">Venta y renta de maquinaria</h1>
 		</div>
 		<div class="row">
-			<p>Contamos con el inventario más completo en equipo de maquinaria y trituración.</p>
+			<p>Contamos con el inventario más completo en equipo de maquinaria y trituración tanto para construcción como minería a cielo abierto. Nuestro catálogo de maquinaria pesada incluye trituradoras secundarias, vibrocompactadores, excavadoras, retroexcavadora, camiones articulados, conos primarios, conos secundarios y plantas de luz de las mejores marcas como CASE, Caterpillar, CEC, GATOR, Komatsu, Metso, Powerscreen.</p>
+			<p>Tenemos la capacidad para atender las necesidades más exigentes dentro de la República Mexicana. No importa el tamaño o la complejidad del proyecto.</p>
 		</div>
 	</div>
 
@@ -311,6 +312,12 @@
 
 		<div class="row" style="display: none;">
 			<a href="#" class="button-colors centered">Mostrar más</a>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="row">
+			@include('partials.contact-form')
 		</div>
 	</div>
 

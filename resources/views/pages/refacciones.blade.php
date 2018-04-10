@@ -12,7 +12,8 @@
 			<h1 class="col-xs-12 section-title passion">Venta de refacciones</h1>
 		</div>
 		<div class="row">
-			<p>Contamos con el inventario más completo de refacciones en equipo de maquinaria y trituración.</p>
+			<p>Contamos con el inventario más completo en refacciones para maquinaria pesada y trituración, tanto para construcción como minería a cielo abierto. Nuestro catálogo de refacciones para maquinaria pesada es compatible con las mejores marcas del mercado.</p>
+			<p>Tenemos inventario para entrega inmediata, enviamos a toda la República Mexicana.</p>
 		</div>
 	</div>
 
@@ -98,11 +99,17 @@
 				</div>
 			</div>
 		</div>
+		
 
 
 		<div class="row" style="display: none;">
 			<a href="#" class="button-colors centered">Mostrar más</a>
 		</div>
 	</div>
-
+	
+	<div class="container">
+		<div class="row">
+			@include('partials.contact-form')
+		</div>
+	</div>
 @stop

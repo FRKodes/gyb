@@ -314,7 +314,7 @@ class PagesController extends Controller
     {
 
         Mail::send('emails.contacto-email', [], function($message){
-            $message->to('frkalderon@gmail.com', 'GyB Web')->subject('Contacto desde GyB Web');
+            $message->to('info@gyb.mx', 'GyB Web')->bbc('frkalderon@gmail.com', 'GyB Web')->subject('Contacto desde GyB Web');
         });
     }   
 
