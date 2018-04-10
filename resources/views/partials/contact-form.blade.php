@@ -1,6 +1,6 @@
-<div class="col-xs-12 col-sm-8 col-md-6 ml-md-auto mr-md-auto">
+<div class="col-xs-12 col-sm-8 col-md-6 ml-md-auto mr-md-auto m-bottom-40">
 	
-	<h2 class="text-center section-title passion">¡Escríbenos!</h2>
+	<h2 class="text-center section-title passion mayus blue">¡Deja tus datos para una cotización!</h2>
 
 	<form action="/sendmail" method="post" id="contactForm">
 		<input type="hidden" name="_token" value="{{ csrf_token() }}">
