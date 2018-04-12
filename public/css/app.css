@@ -46,6 +46,21 @@
   color: #40c3f9;
 }
 
+.whatsapp {
+  width: 70px;
+  height: auto;
+  position: fixed;
+  bottom: 30px;
+  right: 10px;
+  overflow: hidden;
+}
+
+.whatsapp img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 .button-colors {
   background: #a6dcf8;
   background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, #a6dcf8), color-stop(53%, #40c3fb));
