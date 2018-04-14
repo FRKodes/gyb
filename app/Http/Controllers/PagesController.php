@@ -312,13 +312,17 @@ class PagesController extends Controller
 
     public function sendmail()
     {
+        return View('pages.sendmail_contacto');
+    }
 
-        Mail::send('emails.contacto-email', [], function($message){
-            $message->to('info@gyb.mx', 'GyB Web')->bbc('frkalderon@gmail.com', 'GyB Web')->subject('Contacto desde GyB Web');
-        });
-    }   
+    public function sendmail_refacciones()
+    {
+        return View('pages.sendmail_refacciones');
+    }
 
-
-
+    public function sendmail_maquinaria()
+    {
+        return View('pages.sendmail_maquinaria');
+    }
 
 }

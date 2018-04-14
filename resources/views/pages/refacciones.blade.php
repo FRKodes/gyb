@@ -109,7 +109,7 @@
 	
 	<div class="container">
 		<div class="row">
-			@include('partials.contact-form')
+			@include('partials.contact-form-refacciones')
 		</div>
 	</div>
 @stop

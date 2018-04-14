@@ -72,6 +72,8 @@ Route::get('maquinaria/trituradora-secundaria-cono-3-1-4-sec', 'PagesController@
 Route::get('empresa', 'PagesController@empresa');
 Route::get('contacto', 'PagesController@contacto');
 Route::post('sendmail', 'PagesController@sendmail');
+Route::post('sendmail-refacciones', 'PagesController@sendmail_refacciones');
+Route::post('sendmail-maquinaria', 'PagesController@sendmail_maquinaria');
 
 Route::get('/clear-cache', function() {
     $exitCode = Artisan::call('cache:clear');

@@ -2,7 +2,7 @@
 	
 	<h2 class="text-center section-title passion mayus blue">¡Deja tus datos para una cotización!</h2>
 
-	<form action="/sendmail-maquinaria" method="post" id="contactFormMaquinaria">
+	<form action="/sendmail-refacciones" method="post" id="contactFormRefacciones">
 		<input type="hidden" name="_token" value="{{ csrf_token() }}">
 		<div class="form-group">
 			<input type="text" name="nombre" placeholder="*Nombre" class="form-control" data-validate="required">
