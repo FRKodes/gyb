@@ -65,3 +65,17 @@
 		</div>
 	</div>
 @stop
+
+@section('script-conversion')
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 823452875;
+	var google_conversion_label = "pdQICI2cw4ABEMvJ04gD";
+	var google_remarketing_only = false;
+	/* ]]> */
+	</script>
+	<div style='display:inline;'>
+		<img id='pixel-contacto' height='1' width='1' style='border-style:none;' alt='' src=''/>
+	</div>
+@stop

@@ -312,7 +312,9 @@ class PagesController extends Controller
 
     public function sendmail()
     {
-        return View('pages.sendmail_contacto');
+        Mail::send('emails.contacto-email', [], function($message){
+            $message->to('info@gyb.mx', 'GyB Contacto Web')->cc('garcia_sandoval87@hotmail.com ', 'GyB Contacto Web')->cc('frkalderon@gmail.com', 'GyB Contacto Web')->subject('Contacto desde GyB Web');
+        });
     }
 
     public function sendmail_refacciones()

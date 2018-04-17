@@ -18,7 +18,8 @@
 		<script src="js/app.js"></script>
 		<script src="js/slick.js"></script>
 		<script src="js/validate.js"></script>
-		<script src="js/custom.js"></script>
+		<script src="js/custom.js?v=1.0"></script>
 		<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBR2bxbHLtJj9agfUxeojUUiusyxKaxso8&callback=initMap"></script>
+		@yield('script-conversion')
 	</body>
 </html>

@@ -43,6 +43,9 @@ $(function(){
 				console.log('email sent! \n' + data );
 				$('#contactForm')[0].reset();
 				$('.sent_mail_alert').fadeIn().delay(3000).fadeOut();
+				$('#pixel-contacto').attr('src', '\/\/www.googleadservices.com\/pagead\/conversion\/823452875\/?label=pdQICI2cw4ABEMvJ04gD&amp;guid=ON&amp;script=0');
+				console.log($('#pixel-contacto').attr('style'));
+
 			});
 		},
 		overallError : function($form, fields){ /*Do nothing, just show the error fields*/ },
@@ -115,6 +118,7 @@ $(function(){
 				console.log('email sent! \n' + data );
 				$('#contactFormMaquinaria')[0].reset();
 				$('.sent_mail_alert').fadeIn().delay(3000).fadeOut();
+				
 			});
 		},
 		overallError : function($form, fields){ /*Do nothing, just show the error fields*/ },
