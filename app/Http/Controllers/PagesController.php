@@ -319,12 +319,16 @@ class PagesController extends Controller
 
     public function sendmail_refacciones()
     {
-        return View('pages.sendmail_refacciones');
+        Mail::send('emails.refas-maquinas-email', [], function($message){
+            $message->to('info@gyb.mx', 'GyB Refacciones Web')->cc('garcia_sandoval87@hotmail.com', 'GyB Refacciones Web')->cc('frkalderon@gmail.com', 'GyB Refacciones Web')->subject('Contacto refacciones desde GyB Web');
+        });
     }
 
     public function sendmail_maquinaria()
     {
-        return View('pages.sendmail_maquinaria');
+        Mail::send('emails.refas-maquinas-email', [], function($message){
+            $message->to('info@gyb.mx', 'GyB Maquinaria Web')->cc('garcia_sandoval87@hotmail.com ', 'GyB Contacto Web')->cc('frkalderon@gmail.com', 'GyB Maquinaria Web')->subject('Maquinaria desde GyB Web');
+        });
     }
 
 }

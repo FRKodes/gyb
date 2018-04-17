@@ -20,6 +20,7 @@
 		<script src="js/validate.js"></script>
 		<script src="js/custom.js?v=1.0"></script>
 		<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBR2bxbHLtJj9agfUxeojUUiusyxKaxso8&callback=initMap"></script>
-		@yield('script-conversion')
+		{{-- @yield('script-conversion') --}}
+		<div class="evento"></div>
 	</body>
 </html>

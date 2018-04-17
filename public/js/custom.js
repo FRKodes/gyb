@@ -40,12 +40,9 @@ $(function(){
 				url, { nombre: nombre, telefono: telefono, ciudad: ciudad, email: email, _token: _token, comentario: comentario }
 			);
 			posting.done(function( data ){
-				console.log('email sent! \n' + data );
 				$('#contactForm')[0].reset();
 				$('.sent_mail_alert').fadeIn().delay(3000).fadeOut();
-				$('#pixel-contacto').attr('src', '\/\/www.googleadservices.com\/pagead\/conversion\/823452875\/?label=pdQICI2cw4ABEMvJ04gD&amp;guid=ON&amp;script=0');
-				console.log($('#pixel-contacto').attr('style'));
-
+				evento();
 			});
 		},
 		overallError : function($form, fields){ /*Do nothing, just show the error fields*/ },
@@ -53,6 +50,37 @@ $(function(){
 		};
 	var $validate = $('#contactForm').validate(formSettings).data('validate');
 });
+
+function evento(){
+  var google_conversion_id = 823452875;
+  var google_conversion_label = "pdQICI2cw4ABEMvJ04gD";
+  var google_remarketing_only = false;
+  var img ="<noscript><div style='display:inline;'><img height='1' width='1' style='border-style:none;' alt='' src='//www.googleadservices.com/pagead/conversion/823452875/?label=pdQICI2cw4ABEMvJ04gD&amp;guid=ON&amp;script=0'/></div></noscript>";
+  $.getScript('//www.googleadservices.com/pagead/conversion.js');
+  $('.evento').append(img);
+  console.log('email sent contacto!');
+}
+
+function evento_refacciones(){
+  var google_conversion_id = 823452875;
+  var google_conversion_label = "YOo9CK-aw4ABEMvJ04gD";
+  var google_remarketing_only = false;
+  var img_refacciones ="<noscript><div style='display:inline;'><img height='1' width='1' style='border-style:none;' alt='' src='//www.googleadservices.com/pagead/conversion/823452875/?label=YOo9CK-aw4ABEMvJ04gD&amp;guid=ON&amp;script=0'/></div></noscript>";
+  $.getScript('//www.googleadservices.com/pagead/conversion.js');
+  $('.evento').append(img_refacciones);
+  console.log('email sent refacciones!');
+}
+
+function evento_maquinaria(){
+  var google_conversion_id = 823452875;
+  var google_conversion_label = "1f_hCN7qx4ABEMvJ04gD";
+  var google_remarketing_only = false;
+
+  var img_maquinaria ="<noscript><div style='display:inline;'><img height='1' width='1' style='border-style:none;' alt='' src='//www.googleadservices.com/pagead/conversion/823452875/?label=1f_hCN7qx4ABEMvJ04gD&amp;guid=ON&amp;script=0'/></div></noscript>";
+  $.getScript('//www.googleadservices.com/pagead/conversion.js');
+  $('.evento').append(img_maquinaria);
+  console.log('email sent refacciones!');
+}
 
 $(function(){
 
@@ -82,6 +110,7 @@ $(function(){
 				console.log('email sent! \n' + data );
 				$('#contactFormRefacciones')[0].reset();
 				$('.sent_mail_alert').fadeIn().delay(3000).fadeOut();
+				evento_refacciones();
 			});
 		},
 		overallError : function($form, fields){ /*Do nothing, just show the error fields*/ },
@@ -118,7 +147,7 @@ $(function(){
 				console.log('email sent! \n' + data );
 				$('#contactFormMaquinaria')[0].reset();
 				$('.sent_mail_alert').fadeIn().delay(3000).fadeOut();
-				
+				evento_maquinaria();
 			});
 		},
 		overallError : function($form, fields){ /*Do nothing, just show the error fields*/ },
