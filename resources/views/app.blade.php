@@ -3,6 +3,14 @@
 	<head>
 		@include('partials.metas')
 		@include('partials.styles')
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-84802922-14"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-84802922-14');
+		</script>
 	</head>
 	<body>
 		@include('partials.nav')
