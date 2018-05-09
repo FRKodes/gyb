@@ -20,9 +20,9 @@
 		<footer>
 			@include('partials.footer')
 		</footer>
-		{{-- <a target="_blank" class="whatsapp" href="https://api.whatsapp.com/api/send?phone=+5213332015517&text=Hola%20quiero%20info">
+		<a target="_blank" class="whatsapp" href="https://api.whatsapp.com/send?phone=523332015517">
 			<img src="/images/whatsapp.png" alt="Mándanos un mensaje por Whatsapp">
-		</a> --}}
+		</a>
 		<script src="js/app.js"></script>
 		<script src="js/slick.js"></script>
 		<script src="js/validate.js"></script>
