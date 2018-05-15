@@ -65,3 +65,63 @@
 		</div>
 	</div>
 @stop
+
+@section('validator-script')
+	<script>
+		/*validator*/
+		$(function(){
+
+			var formSettings = {
+				singleError : function($field, rules){ 
+					$field.closest('.form-group').removeClass('valid').addClass('error');
+					$('.text-danger').fadeIn();
+				},
+				singleSuccess : function($field, rules){ 
+					$field.closest('.form-group').removeClass('error').addClass('valid');
+					$('.text-danger').fadeOut();
+				},
+				overallSuccess : function(){
+					var form    	= $('#contactForm'),
+						nombre		= form.find( "input[name='nombre']").val(),
+						email		= form.find( "input[name='email']").val(),
+						ciudad		= form.find( "input[name='ciudad']").val(),
+						telefono	= form.find( "input[name='telefono']").val(),
+						comentario	= form.find( "textarea[name='comentario']").val(),
+						_token		= form.find( "input[name='_token']").val(),
+						action		= form.attr( "action"),
+						url			= action;
+
+					var posting = $.post(
+						url, { nombre: nombre, telefono: telefono, ciudad: ciudad, email: email, _token: _token, comentario: comentario }
+					);
+					posting.done(function( data ){
+						$('#contactForm')[0].reset();
+						$('.sent_mail_alert').fadeIn().delay(3000).fadeOut();
+						
+						var google_conversion_id = 823452875;
+						var google_conversion_label = "pdQICI2cw4ABEMvJ04gD";
+						var google_remarketing_only = false;
+						
+						var oldDocumentWrite = document.write 
+
+						document.write = function(node){
+						    $('body').append(node)
+						}
+
+						$.getScript( 'http://www.googleadservices.com/pagead/conversion.js', function() {
+						    setTimeout(function() {
+						        document.write = oldDocumentWrite
+						    }, 100)
+						});
+						
+						console.log('contact email sent and google stuff');
+
+					});
+				},
+				overallError : function($form, fields){ /*Do nothing, just show the error fields*/ },
+					autoDetect : true, debug : true
+				};
+			var $validate = $('#contactForm').validate(formSettings).data('validate');
+		});
+	</script>
+@stop

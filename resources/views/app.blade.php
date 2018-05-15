@@ -8,7 +8,6 @@
 		  window.dataLayer = window.dataLayer || [];
 		  function gtag(){dataLayer.push(arguments);}
 		  gtag('js', new Date());
-
 		  gtag('config', 'UA-84802922-14');
 		</script>
 	</head>
@@ -28,6 +27,7 @@
 		<script src="js/validate.js"></script>
 		<script src="js/custom.js?v=1.1"></script>
 		<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBR2bxbHLtJj9agfUxeojUUiusyxKaxso8&callback=initMap"></script>
-		<div class="evento"></div>
+		@yield('validator-script')
+		{{-- <div class="evento"></div> --}}
 	</body>
 </html>

@@ -309,7 +309,6 @@
 			</div>
 		</div>
 
-
 		<div class="row" style="display: none;">
 			<a href="#" class="button-colors centered">Mostrar más</a>
 		</div>
@@ -321,4 +320,62 @@
 		</div>
 	</div>
 
+@stop
+
+@section('validator-script')
+	<script>
+		$(function(){
+
+			var formSettings = {
+				singleError : function($field, rules){ 
+					$field.closest('.form-group').removeClass('valid').addClass('error');
+					$('.text-danger').fadeIn();
+				},
+				singleSuccess : function($field, rules){ 
+					$field.closest('.form-group').removeClass('error').addClass('valid');
+					$('.text-danger').fadeOut();
+				},
+				overallSuccess : function(){
+					var form    	= $('#contactFormMaquinaria'),
+						nombre		= form.find( "input[name='nombre']").val(),
+						email		= form.find( "input[name='email']").val(),
+						telefono	= form.find( "input[name='telefono']").val(),
+						comentario	= form.find( "textarea[name='comentario']").val(),
+						_token		= form.find( "input[name='_token']").val(),
+						action		= form.attr( "action"),
+						url			= action;
+
+					var posting = $.post(
+						url, { nombre: nombre, telefono: telefono, email: email, _token: _token, comentario: comentario }
+					);
+					posting.done(function( data ){
+
+						$('#contactFormMaquinaria')[0].reset();
+						$('.sent_mail_alert').fadeIn().delay(3000).fadeOut();
+						
+						var google_conversion_id = 823452875;
+						var google_conversion_label = "1f_hCN7qx4ABEMvJ04gD";
+						var google_remarketing_only = false;
+
+						var oldDocumentWrite = document.write 
+
+						document.write = function(node){
+						    $('body').append(node)
+						}
+
+						$.getScript( 'http://www.googleadservices.com/pagead/conversion.js', function() {
+						    setTimeout(function() {
+						        document.write = oldDocumentWrite
+						    }, 100)
+						});
+
+						console.log('email sent! \n' + data );
+					});
+				},
+				overallError : function($form, fields){ /*Do nothing, just show the error fields*/ },
+					autoDetect : true, debug : true
+				};
+			var $validate = $('#contactFormMaquinaria').validate(formSettings).data('validate');
+		});
+	</script>
 @stop
