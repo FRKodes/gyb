@@ -330,6 +330,11 @@ class PagesController extends Controller
         return View('pages.anvils_hong_xing_1214');
     }
 
+    public function reductor_25_a_1()
+    {
+        return View('pages.reductor_25_a_1');
+    }
+
     public function sendmail()
     {
         Mail::send('emails.contacto-email', [], function($message){

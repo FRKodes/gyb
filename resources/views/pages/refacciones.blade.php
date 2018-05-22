@@ -20,6 +20,13 @@
 	<div class="container m-top-40 m-bottom-40 refas-container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
+				<div class="photo"><a href="{{ url('refaccion/reductor-25-a-1') }}"><img src="images/refaccion-moto-reductor.jpg" alt="refacción refaccion moto reductor"></a></div>
+				<div class="description">
+					<p class="title"><a href="{{ url('refaccion/reductor-25-a-1') }}">MOTO REDUCTOR T-4 25 A 1</a></p>
+					<p class="desc"><a href="{{ url('refaccion/reductor-25-a-1') }}">&nbsp;</a></p>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-4 refa-item">
 				<div class="photo"><a href="{{ url('refaccion/anvils-hong-xing-1214') }}"><img src="images/refaccion-anvils-impacto-hong-xing-1214-thumbnail.jpg" alt="refacción anvils impacto hong xing 1214"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('refaccion/anvils-hong-xing-1214') }}">Anvils hong xing 1214</a></p>

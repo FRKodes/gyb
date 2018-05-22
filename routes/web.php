@@ -30,6 +30,7 @@ Route::get('refaccion/grapa-banda-transportadora', 'PagesController@grapa_banda_
 Route::get('refaccion/muela-10x47', 'PagesController@muela_10x47');
 Route::get('refaccion/anvils-gator-13x15', 'PagesController@anvils_gator_13x15');
 Route::get('refaccion/anvils-hong-xing-1214', 'PagesController@anvils_hong_xing_1214');
+Route::get('refaccion/reductor-25-a-1', 'PagesController@reductor_25_a_1');
 Route::get('maquinaria/excavadora-210-LC', 'PagesController@excavadora_210_LC');
 Route::get('maquinaria/excavadora-320-c', 'PagesController@excavadora_320_c');
 Route::get('maquinaria/excavadora-320c', 'PagesController@excavadora_320c');
