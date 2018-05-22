@@ -310,6 +310,26 @@ class PagesController extends Controller
         return View('pages.trituradora_secundaria_cono_3_1_4_sec');
     }
 
+    public function grapa_banda_transportadora()
+    {
+        return View('pages.grapa_banda_transportadora');
+    }
+
+    public function muela_10x47()
+    {
+        return View('pages.muela_10x47');
+    }
+
+    public function anvils_gator_13x15()
+    {
+        return View('pages.anvils_gator_13x15');
+    }
+
+    public function anvils_hong_xing_1214()
+    {
+        return View('pages.anvils_hong_xing_1214');
+    }
+
     public function sendmail()
     {
         Mail::send('emails.contacto-email', [], function($message){

@@ -26,6 +26,10 @@ Route::get('refaccion/gator-impacto-1315', 'PagesController@gator_impacto_1315')
 Route::get('refaccion/metso-impacto-lt1213', 'PagesController@metso_impacto_lt1213');
 Route::get('refaccion/metso-primario-lt120', 'PagesController@metso_primario_lt120');
 Route::get('refaccion/gator-rodillos-varias-medidas', 'PagesController@gator_rodillos_varias_medidas');
+Route::get('refaccion/grapa-banda-transportadora', 'PagesController@grapa_banda_transportadora');
+Route::get('refaccion/muela-10x47', 'PagesController@muela_10x47');
+Route::get('refaccion/anvils-gator-13x15', 'PagesController@anvils_gator_13x15');
+Route::get('refaccion/anvils-hong-xing-1214', 'PagesController@anvils_hong_xing_1214');
 Route::get('maquinaria/excavadora-210-LC', 'PagesController@excavadora_210_LC');
 Route::get('maquinaria/excavadora-320-c', 'PagesController@excavadora_320_c');
 Route::get('maquinaria/excavadora-320c', 'PagesController@excavadora_320c');

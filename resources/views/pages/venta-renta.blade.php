@@ -92,7 +92,7 @@
 
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/cono-secundario-metso-sobre-orugas') }}"><img src="images/maquinaria-cono-secundario-metso-sobre-orugas-thumb.jpg" alt="maquinaria cono secundario metso sobre orugas thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/cono-secundario-metso-sobre-orugas') }}"><img src="images/maquinaria-cono-secundario-sobre-orugas-hp-300-thumbnail.jpg" alt="maquinaria cono secundario metso sobre orugas thumbnail"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/cono-secundario-metso-sobre-orugas') }}">Cono secundario sobre orugas HP 300</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/cono-secundario-metso-sobre-orugas') }}">METSO</a></p>
