@@ -22,25 +22,71 @@
 
 	<div class="container m-top-40 refas-container">
 		<div class="row">
-			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('refaccion/gator-primario-24x36') }}"><img src="images/refaccion-gator-primary-24x36-thumbnail.jpg" alt="refacción gator primary thumbnail"></a></div>
-				<div class="description">
-					<p class="title"><a href="{{ url('refaccion/gator-primario-24x36') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
-					<p class="desc"><a href="{{ url('refaccion/gator-primario-24x36') }}">PRIMARIO GATOR 24X36</a></p>
+			<div class="refas-home">
+				<div class="refa-item">
+					<div class="inner">
+						<div class="photo"><a href="{{ url('refaccion/reductor-25-a-1') }}"><img src="images/refaccion-moto-reductor.jpg" alt="refacción refaccion moto reductor"></a></div>
+						<div class="description">
+							<p class="title"><a href="{{ url('refaccion/reductor-25-a-1') }}">MOTO REDUCTOR T-4 25 A 1</a></p>
+							<p class="desc"><a href="{{ url('refaccion/reductor-25-a-1') }}">&nbsp;</a></p>
+						</div>
+					</div>
 				</div>
-			</div>
-			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}"><img src="images/refaccion-metso-HP200-cone-thumbnail.jpg" alt="refacción metso HP200 cone thumbnail"></a></div>
-				<div class="description">
-					<p class="title"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}">MANTLE Y BOWL LINER</a></p>
-					<p class="desc"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}">CONO METSO HP200</a></p>
+				<div class="refa-item">
+					<div class="inner">
+						<div class="photo"><a href="{{ url('refaccion/gator-impacto-1315') }}"><img src="images/refaccion-gator-impact-1315-thumbnail.jpg" alt="refacción gator impact 1315 thumbnail"></a></div>
+						<div class="description">
+							<p class="title"><a href="{{ url('refaccion/gator-impacto-1315') }}">MARTILLO /LISTON / BLOW BAR</a></p>
+							<p class="desc"><a href="{{ url('refaccion/gator-impacto-1315') }}">IMPACTO GATOR 1315</a></p>
+						</div>
+					</div>
 				</div>
-			</div>
-			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('refaccion/sandvik-primario-1208') }}"><img src="images/refaccion-sandvick-primary-thumbnail.jpg" alt="refaccion sandvick primary thumbnail"></a></div>
-				<div class="description">
-					<p class="title"><a href="{{ url('refaccion/sandvik-primario-1208') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
-					<p class="desc"><a href="{{ url('refaccion/sandvik-primario-1208') }}">PRIMARIO SANDVIK 1208</a></p>
+				<div class="refa-item">
+					<div class="inner">
+						<div class="photo"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}"><img src="images/refaccion-metso-HP200-cone-thumbnail.jpg" alt="refacción metso HP200 cone thumbnail"></a></div>
+						<div class="description">
+							<p class="title"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}">MANTLE Y BOWL LINER</a></p>
+							<p class="desc"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}">CONO METSO HP200</a></p>
+						</div>
+					</div>
+				</div>
+				<div class="refa-item">
+					<div class="inner">
+						<div class="photo"><a href="{{ url('refaccion/gator-primario-24x36') }}"><img src="images/refaccion-gator-primary-24x36-thumbnail.jpg" alt="refacción gator primary thumbnail"></a></div>
+						<div class="description">
+							<p class="title"><a href="{{ url('refaccion/gator-primario-24x36') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
+							<p class="desc"><a href="{{ url('refaccion/gator-primario-24x36') }}">PRIMARIO GATOR 24X36</a></p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="refa-item">
+					<div class="inner">
+						<div class="photo"><a href="{{ url('refaccion/grapa-banda-transportadora') }}"><img src="images/refaccion-grapa-banda-transportadora-thumbnail.jpg" alt="refacción grapa banda transportadora"></a></div>
+						<div class="description">
+							<p class="title"><a href="{{ url('refaccion/grapa-banda-transportadora') }}">GRAPAS DE 1 1/2" y 2"</a></p>
+							<p class="desc"><a href="{{ url('refaccion/grapa-banda-transportadora') }}">&nbsp;</a></p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="refa-item">
+					<div class="inner">
+						<div class="photo"><a href="{{ url('refaccion/sandvik-primario-1208') }}"><img src="images/refaccion-sandvick-primary-thumbnail.jpg" alt="refaccion sandvick primary thumbnail"></a></div>
+						<div class="description">
+							<p class="title"><a href="{{ url('refaccion/sandvik-primario-1208') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
+							<p class="desc"><a href="{{ url('refaccion/sandvik-primario-1208') }}">PRIMARIO SANDVIK 1208</a></p>
+						</div>
+					</div>
+				</div>
+				<div class="refa-item">
+					<div class="inner">
+						<div class="photo"><a href="{{ url('refaccion/gator-primario-24x36') }}"><img src="images/refaccion-gator-primary-24x36-thumbnail.jpg" alt="refacción gator primary thumbnail"></a></div>
+						<div class="description">
+							<p class="title"><a href="{{ url('refaccion/gator-primario-24x36') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
+							<p class="desc"><a href="{{ url('refaccion/gator-primario-24x36') }}">PRIMARIO GATOR 24X36</a></p>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>

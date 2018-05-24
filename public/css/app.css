@@ -238,6 +238,34 @@ body {
   display: block;
 }
 
+.refas-home {
+  width: 100%;
+  display: block;
+}
+
+.refas-home .slick-arrow {
+  position: absolute;
+  top: 35%;
+  color: black;
+  font-size: 2em;
+}
+
+.refas-home .slick-prev {
+  left: 0;
+  z-index: 10;
+  content: '<';
+}
+
+.refas-home .slick-next {
+  right: 0;
+  content: '>';
+}
+
+.refas-home .inner {
+  width: 80%;
+  margin: 0 auto;
+}
+
 .refa-item {
   margin-bottom: 20px;
   position: relative;
@@ -866,6 +894,18 @@ footer .credits a {
     margin-bottom: 100px;
   }
 
+  .refas-home .inner {
+    width: 90%;
+  }
+
+  .refas-home .slick-prev {
+    left: -10px;
+  }
+
+  .refas-home .slick-next {
+    right: -10px;
+  }
+
   .refa-item .description .title {
     font-size: 0.8em;
   }
@@ -1006,6 +1046,18 @@ footer .credits a {
 
   .brands-container .brand-item img {
     width: 100%;
+  }
+
+  .refas-home .inner {
+    width: 94%;
+  }
+
+  .refas-home .slick-prev {
+    left: -20px;
+  }
+
+  .refas-home .slick-next {
+    right: -20px;
   }
 
   .inner-banner {

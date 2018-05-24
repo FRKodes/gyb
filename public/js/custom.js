@@ -63,3 +63,32 @@ $('.brands-container-01').slick({
 		// instead of a settings object
 	]
 });
+
+$('.refas-home').slick({
+	dots: true,
+	infinite: true,
+	speed: 300,
+	autoplay: true,
+	slidesToShow: 3,
+	slidesToScroll: 3,
+	prevArrow: '<button type="button" class="slick-prev"><</button>',
+	nextArrow: '<button type="button" class="slick-next">></button>',
+	responsive: [
+		{
+			breakpoint: 992,
+			settings: {
+				slidesToShow: 2,
+				slidesToScroll: 2,
+				dots: true
+			}
+		},
+		{
+			breakpoint: 768,
+			settings: {
+				slidesToShow: 1,
+				slidesToScroll: 1,
+				dots: true
+			}
+		}
+	]
+});
