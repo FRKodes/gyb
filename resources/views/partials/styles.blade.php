@@ -1,5 +1,5 @@
 <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,700|Passion+One:700" rel="stylesheet">
-<link href="/css/all.css?v=1.0" rel="stylesheet" type="text/css">
+<link href="/css/all.css?v=1.1" rel="stylesheet" type="text/css">
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{
