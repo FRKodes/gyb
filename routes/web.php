@@ -13,6 +13,7 @@
 
 Route::get('/', 'PagesController@index');
 Route::get('venta-y-renta-de-maquinaria', 'PagesController@venta_renta');
+Route::get('venta-de-maquinaria-pesada', 'PagesController@venta_maquinaria');
 Route::get('venta-de-refacciones', 'PagesController@refacciones');
 Route::get('piston-falange-320-sr', 'PagesController@piston_falange_320');
 Route::get('refac-01', 'PagesController@refac_01');
@@ -79,6 +80,7 @@ Route::get('contacto', 'PagesController@contacto');
 Route::post('sendmail', 'PagesController@sendmail');
 Route::post('sendmail-refacciones', 'PagesController@sendmail_refacciones');
 Route::post('sendmail-maquinaria', 'PagesController@sendmail_maquinaria');
+Route::post('sendmail-venta-maquinaria', 'PagesController@sendmail_venta_maquinaria');
 
 Route::get('/clear-cache', function() {
     $exitCode = Artisan::call('cache:clear');

@@ -12,6 +12,7 @@
 			<a class="navbar-brand" href="{{ url('/') }}"><img src="/images/gyb-logo.svg" alt="GyB maquinaria + contrucción logo"></a>
 			<div class="collapse navbar-collapse" id="navbarCollapse">
 				<ul class="navbar-nav">
+					<li class="nav-item"><a class="nav-link" href="{{ url('venta-de-maquinaria-pesada') }}">Venta de Maquinaria</a></li>
 					<li class="nav-item"><a class="nav-link" href="{{ url('venta-y-renta-de-maquinaria') }}">Renta de Maquinaria</a></li>
 					<li class="nav-item"><a class="nav-link" href="{{ url('venta-de-refacciones') }}">Venta de Refacciones</a></li>
 					<li class="nav-item"><a class="nav-link" href="{{ url('empresa') }}">Empresa</a></li>

@@ -18,6 +18,11 @@ class PagesController extends Controller
         return View('pages.venta-renta');
     }
 
+    public function venta_maquinaria()
+    {
+        return View('pages.venta-maquinaria');
+    }
+
     public function refacciones()
     {
     	return View('pages.refacciones');
@@ -353,6 +358,12 @@ class PagesController extends Controller
     {
         Mail::send('emails.refas-maquinas-email', [], function($message){
             $message->to('info@gyb.mx', 'GyB Maquinaria Web')->cc('garcia_sandoval87@hotmail.com ', 'GyB Contacto Web')->cc('frkalderon@gmail.com', 'GyB Maquinaria Web')->subject('Maquinaria desde GyB Web');
+        });
+    }
+    public function sendmail_venta_maquinaria()
+    {
+        Mail::send('emails.venta-maquinas-email', [], function($message){
+            $message->to('info@gyb.mx', 'GyB Maquinaria Web')->cc('garcia_sandoval87@hotmail.com ', 'GyB Venta de Maquinaria')->cc('frkalderon@gmail.com', 'GyB Venta de maquinaria')->subject('Venta de Maquinaria desde GyB Web');
         });
     }
 
