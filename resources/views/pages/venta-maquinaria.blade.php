@@ -135,7 +135,7 @@
 						var google_conversion_label = "yP4qCLyDroMBEMHR5v4C";
 						var google_remarketing_only = false;
 
-						var oldDocumentWrite = document.write 
+						var oldDocumentWrite = document.write;
 
 						document.write = function(node){
 						    $('body').append(node)

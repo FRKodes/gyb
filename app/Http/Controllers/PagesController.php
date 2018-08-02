@@ -18,6 +18,11 @@ class PagesController extends Controller
         return View('pages.venta-renta');
     }
 
+    public function trituradoras()
+    {
+        return View('pages.trituradoras');
+    }
+
     public function venta_maquinaria()
     {
         return View('pages.venta-maquinaria');
@@ -338,6 +343,41 @@ class PagesController extends Controller
     public function reductor_25_a_1()
     {
         return View('pages.reductor_25_a_1');
+    }
+
+    public function primario_de_hidraulico_de_quijadas()
+    {
+        return View('pages.primario_de_hidraulico_de_quijadas');
+    }
+
+    public function trituradora_de_impacto_con_sistema_hidraulico()
+    {
+        return View('pages.trituradora_de_impacto_con_sistema_hidraulico');
+    }
+
+    public function cono_de_cilindro_simple()
+    {
+        return View('pages.cono_de_cilindro_simple');
+    }
+
+    public function vsi_de_impacto_vertical()
+    {
+        return View('pages.vsi_de_impacto_vertical');
+    }
+
+    public function criba_vibratoria()
+    {
+        return View('pages.criba_vibratoria');
+    }
+
+    public function alimentador_vibratorio()
+    {
+        return View('pages.alimentador_vibratorio');
+    }
+
+    public function trituradora_de_cono_compuesto()
+    {
+        return View('pages.trituradora_de_cono_compuesto');
     }
 
     public function sendmail()

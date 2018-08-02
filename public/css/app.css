@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 .oswald {
   font-family: "Oswald", sans-serif;
 }
@@ -44,6 +46,12 @@
 
 .blue {
   color: #40c3f9;
+}
+
+.detail-image {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 .whatsapp {
@@ -715,6 +723,36 @@ h2.title {
 
 .inner-banner.trituradora_secundaria_cono_3_1_4_sec {
   background: transparent url(/images/maquinaria-trituradora-primaria-24x36-gator-1920.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.primario-de-hidráulico-de-quijadas {
+  background: transparent url(/images/venta-maquianaria-trituracion-hydraulic-jaw-crusher-1280x616.png) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.trituradora-de-impacto-con-sistema-hidraulico {
+  background: transparent url(/images/venta-maquianaria-trituracion-hydraulic-impactor-1280x616.png) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.cono-de-cilindro-simple {
+  background: transparent url(/images/venta-maquianaria-trituracion-single-cylinder-cone-crusher-0-1280x616.png) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.vsi-de-impacto-vertical {
+  background: transparent url(/images/venta-maquianaria-trituracion-pcl-vertical-shaft-impact-crusher-1280x616.png) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.criba-vibratoria {
+  background: transparent url(/images/venta-maquianaria-trituracion-vibrating-screen-1280x616.png) no-repeat center center;
+  background-size: cover;
+}
+
+.inner-banner.trituradora-de-cono-compuesto {
+  background: transparent url(/images/venta-maquianaria-trituracion-compound-cone-crusher-01-1280x616.png) no-repeat center center;
   background-size: cover;
 }
 

@@ -12,6 +12,7 @@
 */
 
 Route::get('/', 'PagesController@index');
+Route::get('trituradoras-de-pierda-en-venta', 'PagesController@trituradoras');
 Route::get('venta-y-renta-de-maquinaria', 'PagesController@venta_renta');
 Route::get('venta-de-maquinaria-pesada', 'PagesController@venta_maquinaria');
 Route::get('venta-de-refacciones', 'PagesController@refacciones');
@@ -75,6 +76,13 @@ Route::get('maquinaria/maquinaria-trituradora-metso-lt120', 'PagesController@maq
 Route::get('maquinaria/trituradora-impacto-1214-hongXing', 'PagesController@trituradora_impacto_1214_hongXing');
 Route::get('maquinaria/trituradora-primaria-24x36-gator', 'PagesController@trituradora_primaria_24x36_gator');
 Route::get('maquinaria/trituradora-secundaria-cono-3-1-4-sec', 'PagesController@trituradora_secundaria_cono_3_1_4_sec');
+Route::get('venta-maquinaria-trituracion/primario-de-hidraulico-de-quijadas', 'PagesController@primario_de_hidraulico_de_quijadas');
+Route::get('venta-maquinaria-trituracion/trituradora-de-impacto-con-sistema-hidraulico', 'PagesController@trituradora_de_impacto_con_sistema_hidraulico');
+Route::get('venta-maquinaria-trituracion/cono-de-cilindro-simple', 'PagesController@cono_de_cilindro_simple');
+Route::get('venta-maquinaria-trituracion/vsi-de-impacto-vertical', 'PagesController@vsi_de_impacto_vertical');
+Route::get('venta-maquinaria-trituracion/criba-vibratoria', 'PagesController@criba_vibratoria');
+Route::get('venta-maquinaria-trituracion/alimentador-vibratorio', 'PagesController@alimentador_vibratorio');
+Route::get('venta-maquinaria-trituracion/trituradora-de-cono-compuesto', 'PagesController@trituradora_de_cono_compuesto');
 Route::get('empresa', 'PagesController@empresa');
 Route::get('contacto', 'PagesController@contacto');
 Route::post('sendmail', 'PagesController@sendmail');
