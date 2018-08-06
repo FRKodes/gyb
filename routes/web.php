@@ -12,7 +12,8 @@
 */
 
 Route::get('/', 'PagesController@index');
-Route::get('trituradoras-de-pierda-en-venta', 'PagesController@trituradoras');
+Route::get('trituradoras-de-piedra-en-venta', 'PagesController@trituradoras');
+Route::get('equipo-de-trituracion-de-piedra', 'PagesController@trituradoras');
 Route::get('venta-y-renta-de-maquinaria', 'PagesController@venta_renta');
 Route::get('venta-de-maquinaria-pesada', 'PagesController@venta_maquinaria');
 Route::get('venta-de-refacciones', 'PagesController@refacciones');
