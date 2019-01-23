@@ -43,10 +43,10 @@
 				</div>
 				<div class="refa-item">
 					<div class="inner">
-						<div class="photo"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}"><img src="images/refaccion-metso-HP200-cone-thumbnail.jpg" alt="refacción metso HP200 cone thumbnail"></a></div>
+						<div class="photo"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}"><img src="images/refaccion-hp200-cone-thumbnail.jpg" alt="refacción HP200 cone thumbnail"></a></div>
 						<div class="description">
 							<p class="title"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}">MANTLE Y BOWL LINER</a></p>
-							<p class="desc"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}">CONO METSO HP200</a></p>
+							<p class="desc"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}">CONO HP200</a></p>
 						</div>
 					</div>
 				</div>
@@ -167,7 +167,6 @@
 			<div class="brand-item"><img class="" src="images/logo-cec-gyb-marcas.png" alt="logo cec gyb marcas"></div>
 			<div class="brand-item"><img class="" src="images/logo-gator-gyb-marcas.png" alt="logo gator gyb marcas"></div>
 			<div class="brand-item"><img class="" src="images/logo-komatsu-gyb-marcas.png" alt="logo komatsu gyb marcas"></div>
-			<div class="brand-item"><img class="" src="images/logo-metso-gyb-marcas.png" alt="logo metso gyb marcas"></div>
 			<div class="brand-item"><img class="" src="images/logo-powerscreen-gyb-marcas.png" alt="logo powerscreen gyb marcas"></div>
 			<div class="brand-item"><img class="" src="images/logo-terex-gyb-marcas.png" alt="logo terex gyb marcas"></div>
 		</div>

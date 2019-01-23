@@ -55,10 +55,10 @@
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}"><img src="images/refaccion-metso-HP200-cone-thumbnail.jpg" alt="refacción metso HP200 cone thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}"><img src="images/refaccion-hp200-cone-thumbnail.jpg" alt="refacción HP200 cone thumbnail"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}">MANTLE Y BOWL LINER</a></p>
-					<p class="desc"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}">CONO METSO HP200</a></p>
+					<p class="desc"><a href="{{ url('refaccion/mantle-bowl-liner-hp200') }}">CONO HP200</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
@@ -69,19 +69,19 @@
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('refaccion/mantle-bowl-liner-hp300') }}"><img src="images/refaccion-metso-HP300-cone-thumbnail.jpg" alt="refacción metso HP300 cone thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('refaccion/mantle-bowl-liner-hp300') }}"><img src="images/refaccion-x-hp300-cone-thumbnail.jpg" alt="refacción HP300 cone thumbnail"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('refaccion/mantle-bowl-liner-hp300') }}">MANTLE Y BOWL LINER</a></p>
-					<p class="desc"><a href="{{ url('refaccion/mantle-bowl-liner-hp300') }}">CONO METSO HP300</a></p>
+					<p class="desc"><a href="{{ url('refaccion/mantle-bowl-liner-hp300') }}">CONO HP300</a></p>
 				</div>
 			</div>
 		
 
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('refaccion/metso-primario-c106') }}"><img src="images/refaccion-metso-primary-c106-thumbnail.jpg" alt="refacción metso primary c106 thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('refaccion/mobile-fix-jaw-plate-muela-fija-movil-primario-c106') }}"><img src="images/refaccion-x-primary-c106-thumbnail.jpg" alt="refacción primary c106 thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('refaccion/metso-primario-c106') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
-					<p class="desc"><a href="{{ url('refaccion/metso-primario-c106') }}">PRIMARIO METSO C106</a></p>
+					<p class="title"><a href="{{ url('refaccion/mobile-fix-jaw-plate-muela-fija-movil-primario-c106') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
+					<p class="desc"><a href="{{ url('refaccion/mobile-fix-jaw-plate-muela-fija-movil-primario-c106') }}">PRIMARIO C106</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
@@ -107,17 +107,17 @@
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('refaccion/metso-impacto-lt1213') }}"><img src="images/refaccion-metso-impact-lt1213-1920-thumbnail.jpg" alt="refacción metso impact lt1213 1920 thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('refaccion/martillo-liston-blow-bar-impacto-lt1213') }}"><img src="images/refaccion-x-impact-lt1213-1920-thumbnail.jpg" alt="refacción impact lt1213 1920 thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('refaccion/metso-impacto-lt1213') }}">MARTILLO /LISTON / BLOW BAR</a></p>
-					<p class="desc"><a href="{{ url('refaccion/metso-impacto-lt1213') }}">IMPACTO METSO LT1213</a></p>
+					<p class="title"><a href="{{ url('refaccion/martillo-liston-blow-bar-impacto-lt1213') }}">MARTILLO /LISTON / BLOW BAR</a></p>
+					<p class="desc"><a href="{{ url('refaccion/martillo-liston-blow-bar-impacto-lt1213') }}">IMPACTO LT1213</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('refaccion/metso-primario-lt120') }}"><img src="images/refaccion-metso-primary-lt120-thumbnail.jpg" alt="refacción metso primary lt120 thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('refaccion/mobile-fix-jaw-plate-muela-fija-y-muela-movil-primario-lt120') }}"><img src="images/refaccion-x-primary-lt120-thumbnail.jpg" alt="refacción primary lt120 thumbnail"></a></div>
 				<div class="description">
-					<p class="title"><a href="{{ url('refaccion/metso-primario-lt120') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
-					<p class="desc"><a href="{{ url('refaccion/metso-primario-lt120') }}">PRIMARIO METSO LT120</a></p>
+					<p class="title"><a href="{{ url('refaccion/mobile-fix-jaw-plate-muela-fija-y-muela-movil-primario-lt120') }}">MOBILE &amp; FIX JAW PLATE/MUELA FIJA Y MUELA MOVIL</a></p>
+					<p class="desc"><a href="{{ url('refaccion/mobile-fix-jaw-plate-muela-fija-y-muela-movil-primario-lt120') }}">PRIMARIO LT120</a></p>
 				</div>
 			</div>
 		

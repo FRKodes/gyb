@@ -12,7 +12,7 @@
 			<h1 class="col-xs-12 section-title passion">Venta de maquinaria pesada</h1>
 		</div>
 		<div class="row">
-			<p>Contamos con maquinaria pesada de las marcas más reconocidas, tanto para construcción e ingeniería civil como minería a cielo abierto. Nuestro catálogo de maquinaria pesada incluye trituradoras secundarias, vibrocompactadores, excavadoras, retroexcavadora, camiones articulados, conos y plantas de luz. Manejamos las mejores marcas como CASE, Caterpillar, CEC, GATOR, Komatsu, Metso y Powerscreen.</p>
+			<p>Contamos con maquinaria pesada de las marcas más reconocidas, tanto para construcción e ingeniería civil como minería a cielo abierto. Nuestro catálogo de maquinaria pesada incluye trituradoras secundarias, vibrocompactadores, excavadoras, retroexcavadora, camiones articulados, conos y plantas de luz. Manejamos las mejores marcas como CASE, Caterpillar, CEC, GATOR, Komatsu y Powerscreen.</p>
 			<p>Tenemos la capacidad para atender las necesidades más exigentes dentro de la República Mexicana y Centro América. No importa el tamaño o la complejidad del proyecto.</p>
 		</div>
 	</div>

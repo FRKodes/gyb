@@ -12,7 +12,7 @@
 			<h1 class="col-xs-12 section-title passion">Venta y renta de maquinaria</h1>
 		</div>
 		<div class="row">
-			<p>Contamos con el inventario más completo en equipo de maquinaria y trituración tanto para construcción como minería a cielo abierto. Nuestro catálogo de maquinaria pesada incluye trituradoras secundarias, vibrocompactadores, excavadoras, retroexcavadora, camiones articulados, conos y plantas de luz. Manejamos las mejores marcas como CASE, Caterpillar, CEC, GATOR, Komatsu, Metso y Powerscreen.</p>
+			<p>Contamos con el inventario más completo en equipo de maquinaria y trituración tanto para construcción como minería a cielo abierto. Nuestro catálogo de maquinaria pesada incluye trituradoras secundarias, vibrocompactadores, excavadoras, retroexcavadora, camiones articulados, conos y plantas de luz. Manejamos las mejores marcas como CASE, Caterpillar, CEC, GATOR, Komatsu y Powerscreen.</p>
 			<p>Tenemos la capacidad para atender las necesidades más exigentes dentro de la República Mexicana. No importa el tamaño o la complejidad del proyecto.</p>
 		</div>
 	</div>
@@ -20,21 +20,21 @@
 	<div class="container m-top-40 m-bottom-40 refas-container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href={{ url('maquinaria/excavadora-320c') }}><img src="images/maquinaria-excavadora-320-CL-thumbnail.jpg" alt="maquinaria excavadora 320 CL thumbnail"></a></div>
+				<div class="photo"><a href={{ url('maquinaria/excavadora-320c') }}><img src="images/maquinaria-excavadora-320-CL-thumbnail.jpg" alt="maquinaria excavadora 320 CL foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/excavadora-320c') }}">Excavadora 320C</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/excavadora-320c') }}">CAT</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/retroexcavadora-super-m') }}"><img src="images/maquinaria-retroexcavadora-super-m-thumbnail.jpg" alt="maquinaria retroexcavadora super m thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/retroexcavadora-super-m') }}"><img src="images/maquinaria-retroexcavadora-super-m-thumbnail.jpg" alt="maquinaria retroexcavadora super m foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/retroexcavadora-super-m') }}">Retroexcavadora 580 super m</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/retroexcavadora-super-m') }}">CASE</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/vibrocompactador-ingersol-rand') }}"><img src="images/maquinaria-vibrocompactador-ingersold-rand-thumb.jpg" alt="maquinaria vibrocompactador ingersold rand thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/vibrocompactador-ingersol-rand') }}"><img src="images/maquinaria-vibrocompactador-ingersold-rand-thumb.jpg" alt="maquinaria vibrocompactador ingersold rand foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/vibrocompactador-ingersol-rand') }}">vibrocompactador SD100</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/vibrocompactador-ingersol-rand') }}">ingersol rand</a></p>
@@ -44,21 +44,21 @@
 
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/camion-articulado-cat-740') }}"><img src="images/maquinaria-camion-articulado-cat-740-thumb.jpg" alt="maquinaria camion articulado cat 740 thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/camion-articulado-cat-740') }}"><img src="images/maquinaria-camion-articulado-cat-740-thumb.jpg" alt="maquinaria camion articulado cat 740 foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/camion-articulado-cat-740') }}">Camión articulado cat 740</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/camion-articulado-cat-740') }}">Cat</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/camion-pipa-continental-20k-litros') }}"><img src="images/maquinaria-camion-pipa-continental-20k-litros-thumb.jpg" alt="maquinaria camion pipa continental 20k litros thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/camion-pipa-continental-20k-litros') }}"><img src="images/maquinaria-camion-pipa-continental-20k-litros-thumb.jpg" alt="maquinaria camion pipa continental 20k litros foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/camion-pipa-continental-20k-litros') }}">Camión pipa continental 20k litros</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/camion-pipa-continental-20k-litros') }}">.</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/camion-volteo-14mts') }}"><img src="images/maquinaria-camion-volteo-14mts-thumb.jpg" alt="maquinaria camion volteo 14mts thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/camion-volteo-14mts') }}"><img src="images/maquinaria-camion-volteo-14mts-thumb.jpg" alt="maquinaria camion volteo 14mts foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/camion-volteo-14mts') }}">Camión volteo 14mts</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/camion-volteo-14mts') }}">.</a></p>
@@ -68,7 +68,7 @@
 
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/cargador-frontal-case-721C') }}"><img src="images/maquinaria-cargador-frontal-case-721C-thumb.jpg" alt="maquinaria cargador frontal case 721C thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/cargador-frontal-case-721C') }}"><img src="images/maquinaria-cargador-frontal-case-721C-thumb.jpg" alt="maquinaria cargador frontal case 721C foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/cargador-frontal-case-721C') }}">Cargador frontal 721C</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/cargador-frontal-case-721C') }}">Case</a></p>
@@ -92,14 +92,14 @@
 
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/cono-secundario-metso-sobre-orugas') }}"><img src="images/maquinaria-cono-secundario-sobre-orugas-hp-300-thumbnail.jpg" alt="maquinaria cono secundario metso sobre orugas thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/cono-secundario-metso-sobre-orugas') }}"><img src="images/maquinaria-cono-secundario-sobre-orugas-hp-300-thumbnail.jpg" alt="maquinaria cono secundario sobre orugas foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/cono-secundario-metso-sobre-orugas') }}">Cono secundario sobre orugas HP 300</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/cono-secundario-metso-sobre-orugas') }}">METSO</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/cono-secundario-metso-sobre-orugas') }}">&nbsp;</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/cono-secundario-semifijo-414') }}"><img src="images/maquinaria-cono-secundario-semifijo-4-1-4-thumb.jpg" alt="maquinaria cono secundario semifijo 4 1 4 thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/cono-secundario-semifijo-414') }}"><img src="images/maquinaria-cono-secundario-semifijo-4-1-4-thumb.jpg" alt="maquinaria cono secundario semifijo 4 1 4 foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/cono-secundario-semifijo-414') }}">Cono secundario semifijo 4 1/4'</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/cono-secundario-semifijo-414') }}">.</a></p>
@@ -116,21 +116,21 @@
 
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/excavadora-cat-320c') }}"><img src="images/maquinaria-excavadora-cat-320c-thumb.jpg" alt="maquinaria excavadora cat 320c thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/excavadora-cat-320c') }}"><img src="images/maquinaria-excavadora-cat-320c-thumb.jpg" alt="maquinaria excavadora cat 320c foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/excavadora-cat-320c') }}">Excavadora 320 clu</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/excavadora-cat-320c') }}">cat</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/excavadora-doosan-225lx') }}"><img src="images/maquinaria-excavadora-doosan-225lx-thumb.jpg" alt="maquinaria excavadora doosan 225lx thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/excavadora-doosan-225lx') }}"><img src="images/maquinaria-excavadora-doosan-225lx-thumb.jpg" alt="maquinaria excavadora doosan 225lx foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/excavadora-doosan-225lx') }}">Excavadora 225lx</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/excavadora-doosan-225lx') }}">Doosan</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/excavadora-dossan-340') }}"><img src="images/maquinaria-excavadora-dossan-340-thumb.jpg" alt="maquinaria excavadora dossan 340 thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/excavadora-dossan-340') }}"><img src="images/maquinaria-excavadora-dossan-340-thumb.jpg" alt="maquinaria excavadora dossan 340 foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/excavadora-dossan-340') }}">Excavadora 340LX</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/excavadora-dossan-340') }}">Doosan</a></p>
@@ -140,21 +140,21 @@
 
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/excavadora-komatsu-pc210') }}"><img src="images/maquinaria-excavadora-komatsu-pc210-thumb.jpg" alt="maquinaria excavadora komatsu pc210 thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/excavadora-komatsu-pc210') }}"><img src="images/maquinaria-excavadora-komatsu-pc210-thumb.jpg" alt="maquinaria excavadora komatsu pc210 foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/excavadora-komatsu-pc210') }}">Excavadora pc210</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/excavadora-komatsu-pc210') }}">komatsu</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/excavadora-komatsu-pc350') }}"><img src="images/maquinaria-excavadora-komatsu-pc350-thumb.jpg" alt="maquinaria excavadora komatsu pc350 thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/excavadora-komatsu-pc350') }}"><img src="images/maquinaria-excavadora-komatsu-pc350-thumb.jpg" alt="maquinaria excavadora komatsu pc350 foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/excavadora-komatsu-pc350') }}">Excavadora pc350</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/excavadora-komatsu-pc350') }}">komatsu</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/generador-cummins-125-kva') }}"><img src="images/maquinaria-generador-cummins-125-kva-thumb.jpg" alt="maquinaria-generador cummins 125 kva thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/generador-cummins-125-kva') }}"><img src="images/maquinaria-generador-cummins-125-kva-thumb.jpg" alt="maquinaria-generador cummins 125 kva foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/generador-cummins-125-kva') }}">Generador 125 kva</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/generador-cummins-125-kva') }}">cummins</a></p>
@@ -261,24 +261,24 @@
 
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/maquinaria-cargador-frontal-cat-950g') }}"><img src="images/maquinaria-cargador-frontal-cat-950g-thumbnail.png" alt="maquinaria cargador frontal cat 950g thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/maquinaria-cargador-frontal-cat-950g') }}"><img src="images/maquinaria-cargador-frontal-cat-950g-thumbnail.png" alt="maquinaria cargador frontal cat 950g foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/maquinaria-cargador-frontal-cat-950g') }}">Cargador frontal 950g</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/maquinaria-cargador-frontal-cat-950g') }}">CAT</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/maquinaria-tractor-cat-d7h') }}"><img src="images/maquinaria-tractor-cat-d7h-thumbnail_.png" alt="maquinaria tractor cat d7h thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/maquinaria-tractor-cat-d7h') }}"><img src="images/maquinaria-tractor-cat-d7h-thumbnail_.png" alt="maquinaria tractor cat d7h foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/maquinaria-tractor-cat-d7h') }}">Tractor d7h</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/maquinaria-tractor-cat-d7h') }}">CAT</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/maquinaria-trituradora-metso-lt120') }}"><img src="images/maquinaria-trituradora-metso-lt120-thumbnail.png" alt="maquinaria trituradora metso lt120 thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/maquinaria-trituradora-metso-lt120') }}"><img src="images/maquinaria-trituradora-metso-lt120-thumbnail.png" alt="maquinaria trituradora lt120 foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/maquinaria-trituradora-metso-lt120') }}">trituradora primaria sobre orugas lt120</a></p>
-					<p class="desc"><a href="{{ url('maquinaria/maquinaria-trituradora-metso-lt120') }}">metso</a></p>
+					<p class="desc"><a href="{{ url('maquinaria/maquinaria-trituradora-metso-lt120') }}">&nbsp;</a></p>
 				</div>
 			</div>
 		</div>
@@ -286,14 +286,14 @@
 
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/trituradora-impacto-1214-hongXing') }}"><img src="images/maquinaria-trituradora-impacto-1214-hongXing-thumbnail.jpg" alt="trituradora impacto 1214 hongXing thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/trituradora-impacto-1214-hongXing') }}"><img src="images/maquinaria-trituradora-impacto-1214-hongXing-thumbnail.jpg" alt="trituradora impacto 1214 hongXing foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/trituradora-impacto-1214-hongXing') }}">TRITURADORA IMPACTO 1214</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/trituradora-impacto-1214-hongXing') }}">HONGXING</a></p>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/trituradora-primaria-24x36-gator') }}"><img src="images/maquinaria__trituradora-primaria-24x36-gator-thumbnail.jpg" alt="maquinaria trituradora primaria 24x36 gator thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/trituradora-primaria-24x36-gator') }}"><img src="images/maquinaria__trituradora-primaria-24x36-gator-thumbnail.jpg" alt="maquinaria trituradora primaria 24x36 gator foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/trituradora-primaria-24x36-gator') }}">TRITURADORA PRIMARIA 24X36</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/trituradora-primaria-24x36-gator') }}">GATOR</a></p>
@@ -301,7 +301,7 @@
 			</div>
 			
 			<div class="col-xs-12 col-sm-4 refa-item">
-				<div class="photo"><a href="{{ url('maquinaria/trituradora-secundaria-cono-3-1-4-sec') }}"><img src="images/maquinaria-trituradora-primaria-24x36-gator-thumbnail.jpg" alt="maquinaria trituradora secundaria cono 3 1/4 sec thumbnail"></a></div>
+				<div class="photo"><a href="{{ url('maquinaria/trituradora-secundaria-cono-3-1-4-sec') }}"><img src="images/maquinaria-trituradora-primaria-24x36-gator-thumbnail.jpg" alt="maquinaria trituradora secundaria cono 3 1/4 sec foto miniatura"></a></div>
 				<div class="description">
 					<p class="title"><a href="{{ url('maquinaria/trituradora-secundaria-cono-3-1-4-sec') }}">trituradora secundaria cono 3 1/4'</a></p>
 					<p class="desc"><a href="{{ url('maquinaria/trituradora-secundaria-cono-3-1-4-sec') }}">CEC</a></p>

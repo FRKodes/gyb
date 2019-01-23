@@ -22,12 +22,20 @@ Route::get('refac-01', 'PagesController@refac_01');
 Route::get('refaccion/gator-primario-24x36', 'PagesController@gator_primario_24x36');
 Route::get('refaccion/mantle-bowl-liner-hp200', 'PagesController@mantle_bowl_liner_hp200');
 Route::get('refaccion/mantle-bowl-liner-hp300', 'PagesController@mantle_bowl_liner_hp300');
+
 Route::get('refaccion/metso-primario-c106', 'PagesController@metso_primario_c106');
+Route::get('refaccion/mobile-fix-jaw-plate-muela-fija-movil-primario-c106', 'PagesController@metso_primario_c106');
+
 Route::get('refaccion/sandvik-primario-1208', 'PagesController@sandvik_primario_1208');
 Route::get('refaccion/gator-impacto-1013', 'PagesController@gator_impacto_1013');
 Route::get('refaccion/gator-impacto-1315', 'PagesController@gator_impacto_1315');
+
 Route::get('refaccion/metso-impacto-lt1213', 'PagesController@metso_impacto_lt1213');
+Route::get('refaccion/martillo-liston-blow-bar-impacto-lt1213', 'PagesController@metso_impacto_lt1213');
+
 Route::get('refaccion/metso-primario-lt120', 'PagesController@metso_primario_lt120');
+Route::get('refaccion/mobile-fix-jaw-plate-muela-fija-y-muela-movil-primario-lt120', 'PagesController@metso_primario_lt120');
+
 Route::get('refaccion/gator-rodillos-varias-medidas', 'PagesController@gator_rodillos_varias_medidas');
 Route::get('refaccion/grapa-banda-transportadora', 'PagesController@grapa_banda_transportadora');
 Route::get('refaccion/muela-10x47', 'PagesController@muela_10x47');
@@ -49,7 +57,10 @@ Route::get('maquinaria/camion-volteo-14mts', 'PagesController@camion_volteo_14mt
 Route::get('maquinaria/cargador-frontal-case-721C', 'PagesController@cargador_frontal_case_721C');
 Route::get('maquinaria/cargador-frontal-case-721e', 'PagesController@cargador_frontal_case_721e');
 Route::get('maquinaria/cargador-frontal-cat-966', 'PagesController@cargador_frontal_cat_966');
+
 Route::get('maquinaria/cono-secundario-metso-sobre-orugas', 'PagesController@cono_secundario_metso_sobre_orugas');
+Route::get('maquinaria/cono-secundario-sobre-orugas-hp-300', 'PagesController@cono_secundario_metso_sobre_orugas');
+
 Route::get('maquinaria/cono-secundario-semifijo-414', 'PagesController@cono_secundario_semifijo_414');
 Route::get('maquinaria/excavadora-hyundai', 'PagesController@excavadora_hyundai');
 Route::get('maquinaria/excavadora-cat-320c', 'PagesController@excavadora_cat_320c');
@@ -73,7 +84,10 @@ Route::get('maquinaria/trituradora-secundaria-quijada-sfk', 'PagesController@tri
 Route::get('maquinaria/vibrocompactador-ingersol-rand', 'PagesController@vibrocompactador_ingersold_rand');
 Route::get('maquinaria/maquinaria-cargador-frontal-cat-950g', 'PagesController@maquinaria_cargador_frontal_cat_950g');
 Route::get('maquinaria/maquinaria-tractor-cat-d7h', 'PagesController@maquinaria_tractor_cat_d7h');
+
 Route::get('maquinaria/maquinaria-trituradora-metso-lt120', 'PagesController@maquinaria_trituradora_metso_lt120');
+Route::get('maquinaria/trituradora-primaria-sobre-orugas-lt120', 'PagesController@maquinaria_trituradora_metso_lt120');
+
 Route::get('maquinaria/trituradora-impacto-1214-hongXing', 'PagesController@trituradora_impacto_1214_hongXing');
 Route::get('maquinaria/trituradora-primaria-24x36-gator', 'PagesController@trituradora_primaria_24x36_gator');
 Route::get('maquinaria/trituradora-secundaria-cono-3-1-4-sec', 'PagesController@trituradora_secundaria_cono_3_1_4_sec');
